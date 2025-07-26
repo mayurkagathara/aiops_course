@@ -1,0 +1,500 @@
+2025-07-22 07:46:41,964 INFO [payment-service] Request to /status completed in 358ms.
+2025-07-22 07:46:41,990 INFO [auth-service] Request to /users completed in 174ms.
+2025-07-22 07:46:42,009 INFO [inventory-db] User 'alice' logged in from 192.168.1.118.
+2025-07-22 07:46:42,030 ERROR [payment-service] Service 'db-service' crashed: Segmentation fault.
+2025-07-22 07:46:42,077 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:42,097 INFO [payment-service] User 'bob' logged in from 192.168.1.1.
+2025-07-22 07:46:42,133 ERROR [payment-service] Service 'db-service' crashed: NullPointerException.
+2025-07-22 07:46:42,174 INFO [user-api] User 'alice' logged in from 192.168.1.49.
+2025-07-22 07:46:42,199 INFO [auth-service] Request to /data completed in 388ms.
+2025-07-22 07:46:42,237 ERROR [auth-service] Database connection failed: CONN_REFUSED.
+2025-07-22 07:46:42,282 INFO [payment-service] Request to /status completed in 375ms.
+2025-07-22 07:46:42,330 INFO [inventory-db] User 'bob' logged in from 192.168.1.40.
+2025-07-22 07:46:42,351 INFO [auth-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:42,394 INFO [auth-service] User 'charlie' logged in from 192.168.1.62.
+2025-07-22 07:46:42,435 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:42,459 INFO [user-api] User 'alice' logged in from 192.168.1.232.
+2025-07-22 07:46:42,491 INFO [inventory-db] Request to /status completed in 210ms.
+2025-07-22 07:46:42,526 INFO [user-api] Request to /status completed in 359ms.
+2025-07-22 07:46:42,566 INFO [auth-service] Request to /status completed in 387ms.
+2025-07-22 07:46:42,613 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:42,635 INFO [auth-service] User 'bob' logged in from 192.168.1.127.
+2025-07-22 07:46:42,661 INFO [user-api] User 'alice' logged in from 192.168.1.199.
+2025-07-22 07:46:42,706 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:42,742 INFO [auth-service] Request to /data completed in 175ms.
+2025-07-22 07:46:42,762 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:42,798 INFO [auth-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:42,823 INFO [auth-service] User 'alice' logged in from 192.168.1.244.
+2025-07-22 07:46:42,848 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:42,869 INFO [auth-service] User 'alice' logged in from 192.168.1.143.
+2025-07-22 07:46:42,888 ERROR [user-api] Disk space low on /opt/app.
+2025-07-22 07:46:42,905 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:42,939 INFO [auth-service] Request to /users completed in 491ms.
+2025-07-22 07:46:42,976 INFO [inventory-db] Request to /status completed in 340ms.
+2025-07-22 07:46:42,993 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:43,010 INFO [inventory-db] Service 'auth-service' started successfully.
+2025-07-22 07:46:43,058 INFO [payment-service] User 'bob' logged in from 192.168.1.159.
+2025-07-22 07:46:43,089 ERROR [inventory-db] Disk space low on /opt/app.
+2025-07-22 07:46:43,119 INFO [payment-service] Request to /users completed in 376ms.
+2025-07-22 07:46:43,163 INFO [payment-service] User 'charlie' logged in from 192.168.1.26.
+2025-07-22 07:46:43,192 INFO [user-api] Request to /users completed in 498ms.
+2025-07-22 07:46:43,234 INFO [inventory-db] User 'alice' logged in from 192.168.1.50.
+2025-07-22 07:46:43,269 INFO [auth-service] Request to /data completed in 311ms.
+2025-07-22 07:46:43,306 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:43,329 ERROR [inventory-db] Service 'db-service' crashed: NullPointerException.
+2025-07-22 07:46:43,364 ERROR [payment-service] Database connection failed: CONN_REFUSED.
+2025-07-22 07:46:43,381 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:43,412 INFO [auth-service] Request to /data completed in 238ms.
+2025-07-22 07:46:43,459 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:43,505 INFO [user-api] Request to /status completed in 457ms.
+2025-07-22 07:46:43,523 INFO [auth-service] Request to /status completed in 242ms.
+2025-07-22 07:46:43,566 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:43,612 ERROR [user-api] Database connection failed: TIMEOUT.
+2025-07-22 07:46:43,629 INFO [user-api] User 'alice' logged in from 192.168.1.90.
+2025-07-22 07:46:43,660 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:43,694 INFO [payment-service] Request to /status completed in 320ms.
+2025-07-22 07:46:43,713 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:43,743 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:43,765 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:43,805 INFO [inventory-db] Service 'auth-service' started successfully.
+2025-07-22 07:46:43,850 WARNING [user-api] Generic log message.
+2025-07-22 07:46:43,875 INFO [inventory-db] Service 'data-api' started successfully.
+2025-07-22 07:46:43,902 INFO [user-api] Request to /status completed in 338ms.
+2025-07-22 07:46:43,939 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:43,983 INFO [payment-service] Service 'data-api' started successfully.
+2025-07-22 07:46:44,018 ERROR [user-api] Service 'auth-service' crashed: NullPointerException.
+2025-07-22 07:46:44,064 INFO [payment-service] User 'charlie' logged in from 192.168.1.48.
+2025-07-22 07:46:44,107 WARNING [user-api] Generic log message.
+2025-07-22 07:46:44,135 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:44,180 WARNING [user-api] Generic log message.
+2025-07-22 07:46:44,208 INFO [payment-service] User 'charlie' logged in from 192.168.1.164.
+2025-07-22 07:46:44,252 WARNING [user-api] Generic log message.
+2025-07-22 07:46:44,297 INFO [auth-service] Request to /users completed in 338ms.
+2025-07-22 07:46:44,344 INFO [inventory-db] Service 'data-api' started successfully.
+2025-07-22 07:46:44,366 INFO [user-api] Request to /users completed in 396ms.
+2025-07-22 07:46:44,409 WARNING [user-api] Generic log message.
+2025-07-22 07:46:44,456 INFO [inventory-db] Service 'data-api' started successfully.
+2025-07-22 07:46:44,478 ERROR [auth-service] Database connection failed: AUTH_FAILED.
+2025-07-22 07:46:44,525 INFO [inventory-db] User 'bob' logged in from 192.168.1.92.
+2025-07-22 07:46:44,543 INFO [user-api] User 'bob' logged in from 192.168.1.127.
+2025-07-22 07:46:44,562 INFO [user-api] Request to /status completed in 289ms.
+2025-07-22 07:46:44,608 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:44,642 INFO [payment-service] Service 'data-api' started successfully.
+2025-07-22 07:46:44,677 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:44,694 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:44,740 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:44,762 INFO [payment-service] Request to /users completed in 271ms.
+2025-07-22 07:46:44,797 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:44,830 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:44,868 WARNING [user-api] Generic log message.
+2025-07-22 07:46:44,914 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:44,933 INFO [auth-service] Request to /users completed in 181ms.
+2025-07-22 07:46:44,958 INFO [inventory-db] Request to /users completed in 407ms.
+2025-07-22 07:46:45,004 INFO [inventory-db] Service 'auth-service' started successfully.
+2025-07-22 07:46:45,039 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:45,078 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:45,101 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:45,119 INFO [inventory-db] User 'alice' logged in from 192.168.1.167.
+2025-07-22 07:46:45,155 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:45,203 INFO [auth-service] Request to /data completed in 176ms.
+2025-07-22 07:46:45,250 INFO [user-api] Request to /data completed in 383ms.
+2025-07-22 07:46:45,291 INFO [user-api] User 'bob' logged in from 192.168.1.243.
+2025-07-22 07:46:45,309 INFO [inventory-db] User 'charlie' logged in from 192.168.1.209.
+2025-07-22 07:46:45,352 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:45,391 INFO [user-api] Request to /status completed in 460ms.
+2025-07-22 07:46:45,430 INFO [auth-service] User 'alice' logged in from 192.168.1.232.
+2025-07-22 07:46:45,447 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:45,492 WARNING [user-api] Generic log message.
+2025-07-22 07:46:45,522 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:45,564 ERROR [payment-service] Database connection failed: TIMEOUT.
+2025-07-22 07:46:45,594 ERROR [auth-service] Disk space low on /opt/app.
+2025-07-22 07:46:45,630 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:45,661 INFO [payment-service] Request to /status completed in 440ms.
+2025-07-22 07:46:45,707 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:45,731 ERROR [user-api] Disk space low on /var/log.
+2025-07-22 07:46:45,761 INFO [auth-service] Request to /data completed in 131ms.
+2025-07-22 07:46:45,789 INFO [auth-service] Request to /users completed in 457ms.
+2025-07-22 07:46:45,823 INFO [inventory-db] Service 'auth-service' started successfully.
+2025-07-22 07:46:45,863 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:45,893 INFO [inventory-db] User 'alice' logged in from 192.168.1.175.
+2025-07-22 07:46:45,918 INFO [inventory-db] Request to /users completed in 234ms.
+2025-07-22 07:46:45,949 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:45,996 INFO [payment-service] Request to /users completed in 384ms.
+2025-07-22 07:46:46,028 INFO [auth-service] Request to /status completed in 393ms.
+2025-07-22 07:46:46,062 ERROR [auth-service] Database connection failed: AUTH_FAILED.
+2025-07-22 07:46:46,084 INFO [user-api] Request to /status completed in 386ms.
+2025-07-22 07:46:46,102 INFO [user-api] User 'charlie' logged in from 192.168.1.39.
+2025-07-22 07:46:46,133 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:46,158 INFO [auth-service] User 'alice' logged in from 192.168.1.162.
+2025-07-22 07:46:46,203 INFO [inventory-db] Service 'auth-service' started successfully.
+2025-07-22 07:46:46,250 INFO [user-api] Request to /users completed in 270ms.
+2025-07-22 07:46:46,266 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:46,308 INFO [payment-service] Request to /users completed in 293ms.
+2025-07-22 07:46:46,337 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:46,360 INFO [auth-service] Request to /data completed in 252ms.
+2025-07-22 07:46:46,402 ERROR [user-api] Database connection failed: TIMEOUT.
+2025-07-22 07:46:46,426 INFO [payment-service] Request to /users completed in 378ms.
+2025-07-22 07:46:46,465 ERROR [inventory-db] Disk space low on /var/log.
+2025-07-22 07:46:46,485 INFO [auth-service] User 'charlie' logged in from 192.168.1.61.
+2025-07-22 07:46:46,523 INFO [user-api] Request to /users completed in 363ms.
+2025-07-22 07:46:46,562 WARNING [user-api] Generic log message.
+2025-07-22 07:46:46,588 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:46,616 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:46,650 ERROR [payment-service] Disk space low on /opt/app.
+2025-07-22 07:46:46,686 ERROR [user-api] Database connection failed: CONN_REFUSED.
+2025-07-22 07:46:46,722 INFO [payment-service] User 'charlie' logged in from 192.168.1.119.
+2025-07-22 07:46:46,741 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:46,776 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:46,807 ERROR [auth-service] Service 'db-service' crashed: NullPointerException.
+2025-07-22 07:46:46,826 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:46,867 INFO [payment-service] Request to /data completed in 375ms.
+2025-07-22 07:46:46,908 INFO [inventory-db] Request to /status completed in 52ms.
+2025-07-22 07:46:46,925 ERROR [auth-service] Database connection failed: TIMEOUT.
+2025-07-22 07:46:46,972 ERROR [payment-service] Disk space low on /var/log.
+2025-07-22 07:46:47,008 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:47,028 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:47,066 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:47,090 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:47,121 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:47,163 INFO [user-api] User 'bob' logged in from 192.168.1.148.
+2025-07-22 07:46:47,186 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:47,208 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:47,237 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:47,284 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:47,318 INFO [auth-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:47,349 INFO [auth-service] User 'bob' logged in from 192.168.1.140.
+2025-07-22 07:46:47,396 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:47,434 WARNING [user-api] Generic log message.
+2025-07-22 07:46:47,459 INFO [user-api] Request to /status completed in 440ms.
+2025-07-22 07:46:47,498 INFO [payment-service] Request to /data completed in 382ms.
+2025-07-22 07:46:47,526 INFO [payment-service] User 'bob' logged in from 192.168.1.227.
+2025-07-22 07:46:47,554 INFO [auth-service] Request to /status completed in 360ms.
+2025-07-22 07:46:47,602 INFO [payment-service] Request to /users completed in 138ms.
+2025-07-22 07:46:47,627 ERROR [payment-service] Disk space low on /opt/app.
+2025-07-22 07:46:47,645 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:47,671 INFO [inventory-db] Request to /users completed in 58ms.
+2025-07-22 07:46:47,696 INFO [user-api] User 'alice' logged in from 192.168.1.209.
+2025-07-22 07:46:47,714 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:47,745 INFO [inventory-db] User 'alice' logged in from 192.168.1.141.
+2025-07-22 07:46:47,787 ERROR [payment-service] Database connection failed: TIMEOUT.
+2025-07-22 07:46:47,828 ERROR [inventory-db] Service 'db-service' crashed: Segmentation fault.
+2025-07-22 07:46:47,850 ERROR [payment-service] Service 'db-service' crashed: NullPointerException.
+2025-07-22 07:46:47,889 INFO [user-api] User 'alice' logged in from 192.168.1.150.
+2025-07-22 07:46:47,914 INFO [inventory-db] User 'bob' logged in from 192.168.1.251.
+2025-07-22 07:46:47,953 INFO [user-api] User 'charlie' logged in from 192.168.1.137.
+2025-07-22 07:46:47,983 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:48,007 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:48,043 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:48,063 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:48,090 INFO [user-api] Request to /status completed in 187ms.
+2025-07-22 07:46:48,134 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:48,162 INFO [inventory-db] User 'bob' logged in from 192.168.1.95.
+2025-07-22 07:46:48,202 INFO [auth-service] Request to /status completed in 180ms.
+2025-07-22 07:46:48,234 INFO [inventory-db] User 'alice' logged in from 192.168.1.198.
+2025-07-22 07:46:48,265 INFO [inventory-db] User 'alice' logged in from 192.168.1.32.
+2025-07-22 07:46:48,297 INFO [inventory-db] Request to /data completed in 418ms.
+2025-07-22 07:46:48,344 INFO [user-api] Request to /status completed in 460ms.
+2025-07-22 07:46:48,374 ERROR [auth-service] Disk space low on /opt/app.
+2025-07-22 07:46:48,394 INFO [inventory-db] Request to /status completed in 477ms.
+2025-07-22 07:46:48,440 WARNING [user-api] Generic log message.
+2025-07-22 07:46:48,473 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:48,510 INFO [inventory-db] User 'bob' logged in from 192.168.1.240.
+2025-07-22 07:46:48,552 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:48,592 INFO [user-api] User 'bob' logged in from 192.168.1.168.
+2025-07-22 07:46:48,624 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:48,651 INFO [inventory-db] Service 'auth-service' started successfully.
+2025-07-22 07:46:48,689 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:48,729 INFO [inventory-db] Service 'data-api' started successfully.
+2025-07-22 07:46:48,758 INFO [auth-service] User 'alice' logged in from 192.168.1.38.
+2025-07-22 07:46:48,786 ERROR [inventory-db] Database connection failed: CONN_REFUSED.
+2025-07-22 07:46:48,819 INFO [payment-service] Request to /status completed in 81ms.
+2025-07-22 07:46:48,845 INFO [user-api] User 'bob' logged in from 192.168.1.95.
+2025-07-22 07:46:48,880 INFO [auth-service] Request to /status completed in 213ms.
+2025-07-22 07:46:48,908 WARNING [user-api] Generic log message.
+2025-07-22 07:46:48,942 INFO [payment-service] User 'bob' logged in from 192.168.1.78.
+2025-07-22 07:46:48,980 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:49,008 ERROR [user-api] Disk space low on /opt/app.
+2025-07-22 07:46:49,054 INFO [inventory-db] Request to /users completed in 468ms.
+2025-07-22 07:46:49,077 WARNING [user-api] Generic log message.
+2025-07-22 07:46:49,110 INFO [inventory-db] Service 'data-api' started successfully.
+2025-07-22 07:46:49,126 INFO [payment-service] Service 'data-api' started successfully.
+2025-07-22 07:46:49,173 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:49,191 INFO [payment-service] User 'bob' logged in from 192.168.1.76.
+2025-07-22 07:46:49,208 INFO [auth-service] Request to /data completed in 367ms.
+2025-07-22 07:46:49,226 INFO [auth-service] User 'charlie' logged in from 192.168.1.87.
+2025-07-22 07:46:49,255 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:49,276 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:49,299 WARNING [user-api] Generic log message.
+2025-07-22 07:46:49,333 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:49,356 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:49,403 ERROR [inventory-db] Service 'auth-service' crashed: NullPointerException.
+2025-07-22 07:46:49,448 ERROR [inventory-db] Service 'auth-service' crashed: NullPointerException.
+2025-07-22 07:46:49,486 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:49,522 INFO [inventory-db] Request to /data completed in 152ms.
+2025-07-22 07:46:49,542 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:49,576 WARNING [user-api] Generic log message.
+2025-07-22 07:46:49,595 INFO [payment-service] User 'alice' logged in from 192.168.1.79.
+2025-07-22 07:46:49,616 ERROR [auth-service] Database connection failed: TIMEOUT.
+2025-07-22 07:46:49,640 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:49,675 INFO [payment-service] User 'alice' logged in from 192.168.1.114.
+2025-07-22 07:46:49,703 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:49,732 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:49,774 INFO [user-api] Request to /data completed in 484ms.
+2025-07-22 07:46:49,815 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:49,833 INFO [inventory-db] Request to /status completed in 307ms.
+2025-07-22 07:46:49,876 INFO [user-api] User 'alice' logged in from 192.168.1.20.
+2025-07-22 07:46:49,899 ERROR [inventory-db] Disk space low on /opt/app.
+2025-07-22 07:46:49,935 WARNING [user-api] Generic log message.
+2025-07-22 07:46:49,976 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:50,005 INFO [inventory-db] Request to /users completed in 418ms.
+2025-07-22 07:46:50,028 INFO [inventory-db] User 'charlie' logged in from 192.168.1.192.
+2025-07-22 07:46:50,064 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:50,104 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:50,152 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:50,191 INFO [inventory-db] Service 'auth-service' started successfully.
+2025-07-22 07:46:50,229 INFO [auth-service] User 'charlie' logged in from 192.168.1.150.
+2025-07-22 07:46:50,277 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:50,310 INFO [payment-service] Service 'data-api' started successfully.
+2025-07-22 07:46:50,339 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:50,387 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:50,421 INFO [user-api] Request to /users completed in 431ms.
+2025-07-22 07:46:50,458 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:50,498 INFO [auth-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:50,518 INFO [payment-service] User 'bob' logged in from 192.168.1.241.
+2025-07-22 07:46:50,553 INFO [inventory-db] User 'bob' logged in from 192.168.1.101.
+2025-07-22 07:46:50,575 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:50,623 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:50,647 INFO [user-api] User 'alice' logged in from 192.168.1.246.
+2025-07-22 07:46:50,691 INFO [user-api] Request to /status completed in 117ms.
+2025-07-22 07:46:50,737 INFO [auth-service] Request to /status completed in 196ms.
+2025-07-22 07:46:50,758 INFO [payment-service] Request to /users completed in 140ms.
+2025-07-22 07:46:50,796 INFO [payment-service] Request to /data completed in 441ms.
+2025-07-22 07:46:50,840 INFO [auth-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:50,885 INFO [payment-service] User 'charlie' logged in from 192.168.1.126.
+2025-07-22 07:46:50,905 INFO [payment-service] User 'alice' logged in from 192.168.1.31.
+2025-07-22 07:46:50,937 INFO [inventory-db] Request to /status completed in 445ms.
+2025-07-22 07:46:50,954 INFO [inventory-db] Service 'auth-service' started successfully.
+2025-07-22 07:46:50,977 INFO [auth-service] Request to /data completed in 166ms.
+2025-07-22 07:46:50,995 INFO [payment-service] Request to /users completed in 56ms.
+2025-07-22 07:46:51,036 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:51,069 INFO [inventory-db] Request to /status completed in 439ms.
+2025-07-22 07:46:51,088 INFO [user-api] Request to /users completed in 107ms.
+2025-07-22 07:46:51,111 INFO [user-api] User 'charlie' logged in from 192.168.1.27.
+2025-07-22 07:46:51,133 INFO [user-api] Request to /data completed in 396ms.
+2025-07-22 07:46:51,150 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:51,189 INFO [user-api] Request to /data completed in 379ms.
+2025-07-22 07:46:51,231 INFO [payment-service] User 'alice' logged in from 192.168.1.130.
+2025-07-22 07:46:51,261 ERROR [user-api] Service 'auth-service' crashed: NullPointerException.
+2025-07-22 07:46:51,307 ERROR [inventory-db] Disk space low on /opt/app.
+2025-07-22 07:46:51,332 INFO [inventory-db] Service 'data-api' started successfully.
+2025-07-22 07:46:51,352 INFO [auth-service] User 'charlie' logged in from 192.168.1.153.
+2025-07-22 07:46:51,390 INFO [inventory-db] Request to /status completed in 247ms.
+2025-07-22 07:46:51,417 INFO [payment-service] Request to /status completed in 226ms.
+2025-07-22 07:46:51,435 INFO [user-api] User 'bob' logged in from 192.168.1.90.
+2025-07-22 07:46:51,471 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:51,507 INFO [inventory-db] User 'alice' logged in from 192.168.1.114.
+2025-07-22 07:46:51,525 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:51,552 ERROR [auth-service] Service 'db-service' crashed: Segmentation fault.
+2025-07-22 07:46:51,600 INFO [payment-service] Request to /status completed in 154ms.
+2025-07-22 07:46:51,624 INFO [auth-service] Request to /status completed in 79ms.
+2025-07-22 07:46:51,654 ERROR [payment-service] Service 'auth-service' crashed: NullPointerException.
+2025-07-22 07:46:51,693 INFO [inventory-db] Request to /data completed in 267ms.
+2025-07-22 07:46:51,736 INFO [auth-service] Request to /data completed in 183ms.
+2025-07-22 07:46:51,765 INFO [inventory-db] Request to /users completed in 377ms.
+2025-07-22 07:46:51,799 ERROR [auth-service] Database connection failed: TIMEOUT.
+2025-07-22 07:46:51,831 INFO [inventory-db] Request to /users completed in 276ms.
+2025-07-22 07:46:51,874 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:51,908 INFO [inventory-db] User 'alice' logged in from 192.168.1.231.
+2025-07-22 07:46:51,943 ERROR [auth-service] Disk space low on /opt/app.
+2025-07-22 07:46:51,988 WARNING [user-api] Generic log message.
+2025-07-22 07:46:52,021 INFO [inventory-db] User 'charlie' logged in from 192.168.1.119.
+2025-07-22 07:46:52,046 INFO [user-api] Request to /status completed in 298ms.
+2025-07-22 07:46:52,076 ERROR [user-api] Disk space low on /var/log.
+2025-07-22 07:46:52,120 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:52,148 INFO [auth-service] User 'charlie' logged in from 192.168.1.53.
+2025-07-22 07:46:52,173 INFO [auth-service] Request to /users completed in 385ms.
+2025-07-22 07:46:52,196 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:52,227 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:52,246 INFO [auth-service] User 'alice' logged in from 192.168.1.32.
+2025-07-22 07:46:52,269 INFO [user-api] User 'alice' logged in from 192.168.1.34.
+2025-07-22 07:46:52,301 INFO [auth-service] User 'charlie' logged in from 192.168.1.137.
+2025-07-22 07:46:52,339 INFO [payment-service] Request to /status completed in 498ms.
+2025-07-22 07:46:52,362 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:52,382 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:52,411 INFO [payment-service] Service 'data-api' started successfully.
+2025-07-22 07:46:52,443 INFO [inventory-db] User 'alice' logged in from 192.168.1.125.
+2025-07-22 07:46:52,464 INFO [user-api] User 'alice' logged in from 192.168.1.187.
+2025-07-22 07:46:52,504 INFO [auth-service] Request to /data completed in 414ms.
+2025-07-22 07:46:52,532 ERROR [auth-service] Service 'auth-service' crashed: Segmentation fault.
+2025-07-22 07:46:52,564 INFO [auth-service] User 'alice' logged in from 192.168.1.157.
+2025-07-22 07:46:52,606 INFO [payment-service] Request to /data completed in 427ms.
+2025-07-22 07:46:52,625 INFO [payment-service] Service 'data-api' started successfully.
+2025-07-22 07:46:52,667 INFO [payment-service] User 'bob' logged in from 192.168.1.190.
+2025-07-22 07:46:52,701 ERROR [user-api] Database connection failed: AUTH_FAILED.
+2025-07-22 07:46:52,733 INFO [auth-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:52,770 INFO [payment-service] Request to /status completed in 96ms.
+2025-07-22 07:46:52,812 INFO [payment-service] User 'bob' logged in from 192.168.1.17.
+2025-07-22 07:46:52,857 ERROR [auth-service] Database connection failed: CONN_REFUSED.
+2025-07-22 07:46:52,879 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:52,896 INFO [inventory-db] Request to /status completed in 277ms.
+2025-07-22 07:46:52,919 INFO [auth-service] User 'charlie' logged in from 192.168.1.98.
+2025-07-22 07:46:52,954 INFO [inventory-db] Request to /users completed in 480ms.
+2025-07-22 07:46:53,001 INFO [payment-service] Service 'data-api' started successfully.
+2025-07-22 07:46:53,044 INFO [inventory-db] User 'alice' logged in from 192.168.1.11.
+2025-07-22 07:46:53,072 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:53,102 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:53,127 INFO [payment-service] Service 'data-api' started successfully.
+2025-07-22 07:46:53,161 ERROR [auth-service] Service 'auth-service' crashed: Segmentation fault.
+2025-07-22 07:46:53,206 DEBUG [auth-service] Generic log message.
+2025-07-22 07:46:53,227 INFO [inventory-db] User 'charlie' logged in from 192.168.1.33.
+2025-07-22 07:46:53,252 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:53,278 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:53,323 INFO [user-api] Request to /data completed in 263ms.
+2025-07-22 07:46:53,340 INFO [payment-service] User 'bob' logged in from 192.168.1.91.
+2025-07-22 07:46:53,363 INFO [auth-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:53,390 INFO [user-api] Request to /status completed in 156ms.
+2025-07-22 07:46:53,427 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:53,450 INFO [inventory-db] Request to /users completed in 389ms.
+2025-07-22 07:46:53,473 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:53,510 WARNING [user-api] Generic log message.
+2025-07-22 07:46:53,551 INFO [user-api] Request to /data completed in 118ms.
+2025-07-22 07:46:53,575 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:53,593 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:53,634 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:53,667 ERROR [payment-service] Disk space low on /var/log.
+2025-07-22 07:46:53,704 INFO [user-api] Request to /data completed in 240ms.
+2025-07-22 07:46:53,733 WARNING [user-api] Generic log message.
+2025-07-22 07:46:53,773 ERROR [payment-service] Database connection failed: AUTH_FAILED.
+2025-07-22 07:46:53,817 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:53,849 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:53,873 INFO [inventory-db] Service 'data-api' started successfully.
+2025-07-22 07:46:53,891 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:53,934 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:53,956 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:53,999 INFO [auth-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:54,038 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:54,086 INFO [inventory-db] Service 'data-api' started successfully.
+2025-07-22 07:46:54,127 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:54,150 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:54,190 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:54,230 INFO [inventory-db] Request to /status completed in 132ms.
+2025-07-22 07:46:54,253 INFO [inventory-db] User 'charlie' logged in from 192.168.1.19.
+2025-07-22 07:46:54,281 INFO [inventory-db] Service 'auth-service' started successfully.
+2025-07-22 07:46:54,305 INFO [inventory-db] User 'bob' logged in from 192.168.1.44.
+2025-07-22 07:46:54,344 INFO [auth-service] Request to /data completed in 481ms.
+2025-07-22 07:46:54,373 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:54,404 INFO [payment-service] Service 'data-api' started successfully.
+2025-07-22 07:46:54,440 INFO [user-api] User 'bob' logged in from 192.168.1.138.
+2025-07-22 07:46:54,485 INFO [inventory-db] Service 'data-api' started successfully.
+2025-07-22 07:46:54,518 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:54,560 INFO [auth-service] User 'charlie' logged in from 192.168.1.83.
+2025-07-22 07:46:54,579 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:54,602 INFO [user-api] Request to /data completed in 176ms.
+2025-07-22 07:46:54,634 INFO [user-api] Request to /data completed in 52ms.
+2025-07-22 07:46:54,673 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:54,719 INFO [auth-service] Request to /data completed in 345ms.
+2025-07-22 07:46:54,764 INFO [payment-service] User 'alice' logged in from 192.168.1.220.
+2025-07-22 07:46:54,805 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:54,853 DEBUG [payment-service] Generic log message.
+2025-07-22 07:46:54,888 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:54,908 INFO [payment-service] User 'bob' logged in from 192.168.1.78.
+2025-07-22 07:46:54,935 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:54,962 INFO [user-api] Request to /users completed in 188ms.
+2025-07-22 07:46:55,000 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:55,028 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:55,044 INFO [payment-service] Request to /users completed in 205ms.
+2025-07-22 07:46:55,075 INFO [auth-service] Request to /data completed in 181ms.
+2025-07-22 07:46:55,093 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:55,134 ERROR [inventory-db] Disk space low on /opt/app.
+2025-07-22 07:46:55,164 INFO [payment-service] Request to /status completed in 422ms.
+2025-07-22 07:46:55,195 INFO [payment-service] Request to /data completed in 420ms.
+2025-07-22 07:46:55,225 INFO [payment-service] Service 'data-api' started successfully.
+2025-07-22 07:46:55,262 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:55,301 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:55,325 INFO [auth-service] Request to /status completed in 137ms.
+2025-07-22 07:46:55,365 INFO [user-api] User 'alice' logged in from 192.168.1.96.
+2025-07-22 07:46:55,404 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:55,439 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:55,471 INFO [auth-service] User 'alice' logged in from 192.168.1.185.
+2025-07-22 07:46:55,511 INFO [auth-service] User 'alice' logged in from 192.168.1.3.
+2025-07-22 07:46:55,530 INFO [inventory-db] User 'charlie' logged in from 192.168.1.83.
+2025-07-22 07:46:55,557 INFO [auth-service] User 'bob' logged in from 192.168.1.251.
+2025-07-22 07:46:55,594 INFO [user-api] User 'charlie' logged in from 192.168.1.97.
+2025-07-22 07:46:55,637 INFO [payment-service] Request to /users completed in 356ms.
+2025-07-22 07:46:55,670 INFO [user-api] User 'charlie' logged in from 192.168.1.95.
+2025-07-22 07:46:55,710 INFO [auth-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:55,735 INFO [payment-service] User 'charlie' logged in from 192.168.1.196.
+2025-07-22 07:46:55,780 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:55,799 INFO [auth-service] User 'alice' logged in from 192.168.1.33.
+2025-07-22 07:46:55,825 INFO [inventory-db] Service 'auth-service' started successfully.
+2025-07-22 07:46:55,859 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:55,907 INFO [inventory-db] User 'charlie' logged in from 192.168.1.170.
+2025-07-22 07:46:55,952 INFO [payment-service] User 'charlie' logged in from 192.168.1.104.
+2025-07-22 07:46:55,988 INFO [user-api] User 'charlie' logged in from 192.168.1.170.
+2025-07-22 07:46:56,010 INFO [payment-service] Service 'data-api' started successfully.
+2025-07-22 07:46:56,055 INFO [payment-service] User 'charlie' logged in from 192.168.1.110.
+2025-07-22 07:46:56,088 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:56,120 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:56,137 INFO [payment-service] Request to /data completed in 169ms.
+2025-07-22 07:46:56,173 INFO [user-api] User 'alice' logged in from 192.168.1.248.
+2025-07-22 07:46:56,221 INFO [auth-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:56,266 ERROR [user-api] Disk space low on /opt/app.
+2025-07-22 07:46:56,290 ERROR [payment-service] Service 'data-api' crashed: NullPointerException.
+2025-07-22 07:46:56,311 INFO [inventory-db] Request to /status completed in 434ms.
+2025-07-22 07:46:56,350 INFO [payment-service] User 'bob' logged in from 192.168.1.83.
+2025-07-22 07:46:56,394 ERROR [inventory-db] Database connection failed: TIMEOUT.
+2025-07-22 07:46:56,433 WARNING [inventory-db] Generic log message.
+2025-07-22 07:46:56,472 INFO [user-api] Request to /users completed in 121ms.
+2025-07-22 07:46:56,489 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:56,520 WARNING [user-api] Generic log message.
+2025-07-22 07:46:56,544 INFO [auth-service] Service 'data-api' started successfully.
+2025-07-22 07:46:56,576 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:56,604 WARNING [user-api] Generic log message.
+2025-07-22 07:46:56,651 INFO [payment-service] User 'alice' logged in from 192.168.1.61.
+2025-07-22 07:46:56,674 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:56,711 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:56,747 INFO [user-api] Request to /users completed in 440ms.
+2025-07-22 07:46:56,765 DEBUG [auth-service] Generic log message.
+2025-07-22 07:46:56,787 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:56,816 WARNING [user-api] Generic log message.
+2025-07-22 07:46:56,840 INFO [auth-service] Request to /status completed in 218ms.
+2025-07-22 07:46:56,887 DEBUG [auth-service] Generic log message.
+2025-07-22 07:46:56,922 INFO [auth-service] User 'charlie' logged in from 192.168.1.163.
+2025-07-22 07:46:56,954 INFO [auth-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:56,981 ERROR [payment-service] Service 'db-service' crashed: NullPointerException.
+2025-07-22 07:46:57,014 WARNING [user-api] Generic log message.
+2025-07-22 07:46:57,040 ERROR [user-api] Database connection failed: CONN_REFUSED.
+2025-07-22 07:46:57,082 INFO [auth-service] User 'bob' logged in from 192.168.1.78.
+2025-07-22 07:46:57,098 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:57,138 INFO [inventory-db] User 'bob' logged in from 192.168.1.236.
+2025-07-22 07:46:57,164 INFO [auth-service] Request to /data completed in 56ms.
+2025-07-22 07:46:57,211 INFO [auth-service] User 'bob' logged in from 192.168.1.95.
+2025-07-22 07:46:57,255 INFO [auth-service] User 'charlie' logged in from 192.168.1.82.
+2025-07-22 07:46:57,294 INFO [inventory-db] Service 'data-api' started successfully.
+2025-07-22 07:46:57,327 INFO [user-api] User 'bob' logged in from 192.168.1.253.
+2025-07-22 07:46:57,365 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:57,399 WARNING [auth-service] Generic log message.
+2025-07-22 07:46:57,435 WARNING [user-api] Generic log message.
+2025-07-22 07:46:57,462 INFO [payment-service] Request to /data completed in 133ms.
+2025-07-22 07:46:57,497 INFO [auth-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:57,522 ERROR [auth-service] Database connection failed: CONN_REFUSED.
+2025-07-22 07:46:57,555 INFO [inventory-db] Service 'auth-service' started successfully.
+2025-07-22 07:46:57,577 DEBUG [payment-service] Generic log message.
+2025-07-22 07:46:57,616 INFO [payment-service] Service 'auth-service' started successfully.
+2025-07-22 07:46:57,652 INFO [inventory-db] Request to /users completed in 89ms.
+2025-07-22 07:46:57,672 ERROR [user-api] Service 'data-api' crashed: Segmentation fault.
+2025-07-22 07:46:57,705 INFO [inventory-db] Request to /users completed in 485ms.
+2025-07-22 07:46:57,750 INFO [inventory-db] User 'charlie' logged in from 192.168.1.206.
+2025-07-22 07:46:57,769 WARNING [payment-service] Generic log message.
+2025-07-22 07:46:57,786 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:57,805 INFO [user-api] User 'bob' logged in from 192.168.1.202.
+2025-07-22 07:46:57,832 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:57,849 INFO [inventory-db] User 'bob' logged in from 192.168.1.18.
+2025-07-22 07:46:57,872 ERROR [auth-service] Disk space low on /var/log.
+2025-07-22 07:46:57,910 INFO [payment-service] User 'bob' logged in from 192.168.1.29.
+2025-07-22 07:46:57,942 INFO [user-api] Service 'auth-service' started successfully.
+2025-07-22 07:46:57,972 INFO [user-api] Service 'data-api' started successfully.
+2025-07-22 07:46:58,010 INFO [auth-service] Request to /data completed in 175ms.
+2025-07-22 07:46:58,026 ERROR [auth-service] Service 'db-service' crashed: Segmentation fault.
+2025-07-22 07:46:58,069 WARNING [user-api] Generic log message.
+2025-07-22 07:46:58,086 INFO [payment-service] Request to /users completed in 310ms.

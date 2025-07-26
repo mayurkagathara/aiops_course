@@ -1,0 +1,2 @@
+This document contains the word 'Python' and 'regex'.
+It's a simple test file for pattern matching.

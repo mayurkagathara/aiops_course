@@ -1,0 +1,17 @@
+2025-07-21 09:00:01,123 INFO  [com.example.App] Application started successfully
+2025-07-21 09:00:02,456 ERROR [com.example.Service] Failed to process request
+java.lang.NullPointerException: Cannot invoke "String.length()" because "input" is null
+    at com.example.Service.process(Service.java:45)
+    at com.example.Controller.handle(Controller.java:30)
+    at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+Caused by: java.io.IOException: File not found
+    at com.example.FileManager.read(FileManager.java:67)
+    ... 2 more
+2025-07-21 09:00:03,789 INFO  [com.example.Auth] User 'admin' logged in
+2025-07-21 09:00:05,101 ERROR [com.example.DB] Database operation failed
+java.sql.SQLException: Connection timed out
+    at com.example.DBConnector.connect(DBConnector.java:102)
+    at com.example.Repository.save(Repository.java:87)
+Caused by: java.net.SocketTimeoutException: 10 second timeout
+    at java.base/sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:130)
+2025-07-21 09:00:06,987 INFO  [com.example.Scheduler] Daily job completed in 435ms
