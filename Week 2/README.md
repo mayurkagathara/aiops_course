@@ -10,7 +10,6 @@ This folder contains four main modules for Week 2. Each module has a specific pu
 **Purpose:**
 Simulates application log generation by creating a log file (`app.log`) with randomized log entries.
 
-
 **How to Run:**
 
 ```powershell
@@ -31,7 +30,6 @@ python W02D06_simulate_logs.py
 ---
 
 ## 2. Parse_log
-
 
 **Files:**
 
@@ -67,7 +65,6 @@ python W02D06_simulate_logs.py
 ---
 
 ## 3. dashboard_psutil
-
 
 **Files:**
 
@@ -117,7 +114,6 @@ pip install psutil matplotlib
 
 ## 4. log and metrics
 
-
 **Files:**
 
 - `log_metrics_CLI.py`, `log_metrics_UI.py`, `app.log`
@@ -141,7 +137,6 @@ python log_metrics_UI.py
 - streamlit
 
 ---
-
 
 ## General Notes
 
