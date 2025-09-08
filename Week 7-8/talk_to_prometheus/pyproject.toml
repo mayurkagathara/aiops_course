@@ -1,0 +1,17 @@
+[project]
+name = "talk-to-prometheus"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "crewai[flow,tools]>=0.175.0",
+    "langgraph>=0.6.6",
+    "numpy>=1.24",
+    "pandas>=1.5",
+    "plotly>=6.3.0",
+    "pydantic>=1.10.11",
+    "python-dotenv>=1.0",
+    "requests>=2.28",
+    "streamlit>=1.49.1",
+]

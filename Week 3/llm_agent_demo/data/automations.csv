@@ -1,0 +1,16 @@
+Automation ID,Automation Name,Description
+AUTO001,LB Rule Checker,Checks and validates load balancer rules across environments
+AUTO002,SSL Cert Monitor,Monitors SSL certificate expiry and renews them automatically
+AUTO003,Disk Health Scanner,Scans and reports health of SSDs in all storage nodes
+AUTO004,DB Query Optimizer,Analyzes and optimizes inefficient database queries
+AUTO005,SSH Port Hardener,Scans exposed SSH ports and enforces secure policies
+AUTO006,Docker Cache Purger,Identifies and clears corrupted Docker layers in registry
+AUTO007,Alert Rule Validator,Validates alert rules against metrics and suggests thresholds
+AUTO008,VPN Path Switcher,Detects flaky VPN links and reroutes traffic automatically
+AUTO009,Write Load Balancer,Defers high-volume DB writes to off-peak schedules
+AUTO010,Backup Volume Manager,Monitors backup volume usage and auto-expands or cleans old data
+AUTO011,SMTP Config Validator,Validates SMTP credentials and checks service connectivity
+AUTO012,Kafka Retention Manager,Monitors Kafka topic retention and extends policies automatically
+AUTO013,Config Sync Enforcer,Detects version mismatches in configs across environments
+AUTO014,Memory Leak Detector,Scans deployed services for abnormal memory growth and rolls back if needed
+AUTO015,Env Scope Filter,Ensures alert rules are only applied to production environments

@@ -1,0 +1,117 @@
+version: "3.8"
+
+services:
+  # -------------------
+  # Prometheus
+  # -------------------
+  prometheus:
+    build: ./prometheus
+    container_name: prometheus
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+      - "--storage.tsdb.path=/prometheus"
+      - "--storage.tsdb.retention.time=2y"
+    volumes:
+      - prometheus_data:/prometheus
+    ports:
+      - "9090:9090"
+    networks:
+      - aiops-net
+  
+  victoriametrics:
+    image: victoriametrics/victoria-metrics:latest
+    container_name: victoriametrics
+    ports:
+      - "8428:8428"
+    volumes:
+      - ./vmdata:/victoria-metrics-data
+    command:
+      - "--storageDataPath=/victoria-metrics-data"
+      - "--retentionPeriod=1y"
+    networks:
+      - aiops-net
+
+  pushgateway:
+    image: prom/pushgateway:v1.5.1
+    container_name: pushgateway
+    ports:
+      - "9091:9091"
+    networks:
+      - aiops-net
+
+  # -------------------
+  # Grafana
+  # -------------------
+  grafana:
+    image: grafana/grafana:10.4.2
+    container_name: grafana
+    ports:
+      - "3000:3000"
+      - "8000:8000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_INSTALL_PLUGINS=victoriametrics-metrics-datasource
+    depends_on:
+      - prometheus
+    networks:
+      - aiops-net
+
+  # -------------------
+  # Alertmanager
+  # -------------------
+  # alertmanager:
+  #   build: ./alertmanager
+  #   container_name: alertmanager
+  #   command:
+  #     - "--config.file=/etc/alertmanager/alertmanager.yml"
+  #   ports:
+  #     - "9093:9093"
+  #   networks:
+  #     - aiops-net
+
+  # -------------------
+  # OpenTelemetry Collector
+  # -------------------
+  # otel-collector:
+  #   build: ./otel-collector
+  #   container_name: otel-collector
+  #   command: ["--config", "/etc/otel/config.yaml"]
+  #   ports:
+  #     - "4317:4317"   # gRPC (OTLP)
+  #     - "4318:4318"   # HTTP (OTLP)
+  #     - "8888:8888"   # Prometheus exporter
+  #     - "9464:9464"
+  #   networks:
+  #     - aiops-net
+
+  node-exporter:
+    image: prom/node-exporter:latest
+    container_name: node-exporter
+    restart: unless-stopped
+    ports:
+      - "9100:9100"
+    networks:
+      - aiops-net
+  # node-exporter:
+  #   image: prom/node-exporter:latest
+  #   container_name: node-exporter
+  #   restart: unless-stopped
+  #   volumes:
+  #     - /proc:/host/proc:ro
+  #     - /sys:/host/sys:ro
+  #     - /:/rootfs:ro
+  #   command:
+  #     - '--path.procfs=/host/proc'
+  #     - '--path.rootfs=/rootfs'
+  #     - '--path.sysfs=/host/sys'
+  #   ports:
+  #     - "9100:9100"
+
+volumes:
+  prometheus_data: {}
+
+networks:
+  aiops-net:
+    driver: bridge
+

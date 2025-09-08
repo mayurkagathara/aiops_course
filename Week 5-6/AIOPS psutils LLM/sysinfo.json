@@ -1,0 +1,75 @@
+{
+  "platform": "Windows",
+  "platform-release": "11",
+  "hostname": "DESKTOP-HNSGV8O",
+  "boot_time": "2025-07-10 17:59:33",
+  "cpu_percent": 6.5,
+  "cpu_cores": 4,
+  "cpu_threads": 8,
+  "virtual_memory": {
+    "total": 8494747648,
+    "available": 2365702144,
+    "percent": 72.2,
+    "used": 6129045504,
+    "free": 2365702144
+  },
+  "swap_memory": {
+    "total": 3902922752,
+    "used": 279216128,
+    "free": 3623706624,
+    "percent": 7.2,
+    "sin": 0,
+    "sout": 0
+  },
+  "disk_usage": {
+    "C:\\": {
+      "total": 255179042816,
+      "used": 87165825024,
+      "free": 168013217792,
+      "percent": 34.2
+    },
+    "D:\\": {
+      "total": 198022328320,
+      "used": 77125865472,
+      "free": 120896462848,
+      "percent": 38.9
+    },
+    "E:\\": {
+      "total": 600118915072,
+      "used": 350554181632,
+      "free": 249564733440,
+      "percent": 58.4
+    },
+    "F:\\": {
+      "total": 600118915072,
+      "used": 131358474240,
+      "free": 468760440832,
+      "percent": 21.9
+    },
+    "G:\\": {
+      "total": 600119963648,
+      "used": 316512456704,
+      "free": 283607506944,
+      "percent": 52.7
+    }
+  },
+  "disk_io": {
+    "read_count": 2749212,
+    "write_count": 3287047,
+    "read_bytes": 145101443072,
+    "write_bytes": 97447503360,
+    "read_time": 11541,
+    "write_time": 3386
+  },
+  "net_io": {
+    "bytes_sent": 47996916,
+    "bytes_recv": 467291665,
+    "packets_sent": 198334,
+    "packets_recv": 260069,
+    "errin": 0,
+    "errout": 0,
+    "dropin": 0,
+    "dropout": 0
+  },
+  "process_count": 223
+}

@@ -1,0 +1,4502 @@
+[
+  {
+    "timestamp": "07:33:28",
+    "cpu": 12.6,
+    "ram": 78.4,
+    "disk": 37.8,
+    "net_sent": 63.40197277069092,
+    "net_recv": 876.555230140686,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:33:33",
+    "cpu": 11.2,
+    "ram": 78.4,
+    "disk": 37.8,
+    "net_sent": 63.47801494598389,
+    "net_recv": 876.5674905776978,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:33:38",
+    "cpu": 10.3,
+    "ram": 78.4,
+    "disk": 37.8,
+    "net_sent": 63.56341552734375,
+    "net_recv": 876.5894956588745,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:33:43",
+    "cpu": 11.1,
+    "ram": 78.8,
+    "disk": 37.8,
+    "net_sent": 63.639262199401855,
+    "net_recv": 876.6009473800659,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:33:48",
+    "cpu": 14.5,
+    "ram": 79.0,
+    "disk": 37.8,
+    "net_sent": 63.7291374206543,
+    "net_recv": 876.6156377792358,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:33:53",
+    "cpu": 13.2,
+    "ram": 79.0,
+    "disk": 37.8,
+    "net_sent": 63.8305139541626,
+    "net_recv": 876.6377649307251,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:33:58",
+    "cpu": 12.6,
+    "ram": 79.0,
+    "disk": 37.8,
+    "net_sent": 63.91170406341553,
+    "net_recv": 876.648515701294,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:34:03",
+    "cpu": 12.4,
+    "ram": 79.0,
+    "disk": 37.8,
+    "net_sent": 63.98837375640869,
+    "net_recv": 876.6563386917114,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:34:08",
+    "cpu": 19.7,
+    "ram": 79.3,
+    "disk": 37.8,
+    "net_sent": 64.09227752685547,
+    "net_recv": 876.665678024292,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:34:13",
+    "cpu": 15.8,
+    "ram": 75.8,
+    "disk": 37.8,
+    "net_sent": 64.17838764190674,
+    "net_recv": 876.6763048171997,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:34:18",
+    "cpu": 26.5,
+    "ram": 77.0,
+    "disk": 37.8,
+    "net_sent": 64.27845001220703,
+    "net_recv": 876.6838216781616,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:34:24",
+    "cpu": 16.8,
+    "ram": 77.1,
+    "disk": 37.8,
+    "net_sent": 64.38531589508057,
+    "net_recv": 876.7010040283203,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:34:29",
+    "cpu": 15.2,
+    "ram": 76.9,
+    "disk": 37.8,
+    "net_sent": 64.5365400314331,
+    "net_recv": 876.7083435058594,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:34:34",
+    "cpu": 18.6,
+    "ram": 77.5,
+    "disk": 37.8,
+    "net_sent": 64.72337818145752,
+    "net_recv": 876.7184762954712,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:34:39",
+    "cpu": 17.5,
+    "ram": 77.6,
+    "disk": 37.8,
+    "net_sent": 64.86320114135742,
+    "net_recv": 876.7283592224121,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:34:44",
+    "cpu": 15.8,
+    "ram": 77.1,
+    "disk": 37.8,
+    "net_sent": 64.97257423400879,
+    "net_recv": 876.7392807006836,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:34:49",
+    "cpu": 14.9,
+    "ram": 76.6,
+    "disk": 37.8,
+    "net_sent": 65.04722881317139,
+    "net_recv": 876.7489366531372,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:34:54",
+    "cpu": 12.2,
+    "ram": 76.5,
+    "disk": 37.8,
+    "net_sent": 65.12957286834717,
+    "net_recv": 876.8314895629883,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:34:59",
+    "cpu": 12.2,
+    "ram": 76.5,
+    "disk": 37.8,
+    "net_sent": 65.20574188232422,
+    "net_recv": 876.8429250717163,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:35:04",
+    "cpu": 12.3,
+    "ram": 76.7,
+    "disk": 37.8,
+    "net_sent": 65.30973815917969,
+    "net_recv": 876.8612680435181,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:35:09",
+    "cpu": 11.7,
+    "ram": 76.7,
+    "disk": 37.8,
+    "net_sent": 65.38427639007568,
+    "net_recv": 876.8736047744751,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:35:14",
+    "cpu": 15.2,
+    "ram": 76.6,
+    "disk": 37.8,
+    "net_sent": 65.47047424316406,
+    "net_recv": 876.8861141204834,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:35:19",
+    "cpu": 12.1,
+    "ram": 76.5,
+    "disk": 37.8,
+    "net_sent": 65.54838275909424,
+    "net_recv": 876.9090948104858,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:35:24",
+    "cpu": 14.1,
+    "ram": 76.6,
+    "disk": 37.8,
+    "net_sent": 65.65266036987305,
+    "net_recv": 876.9344959259033,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:35:29",
+    "cpu": 12.8,
+    "ram": 76.5,
+    "disk": 37.8,
+    "net_sent": 65.74427890777588,
+    "net_recv": 876.9691362380981,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:35:34",
+    "cpu": 11.0,
+    "ram": 76.5,
+    "disk": 37.8,
+    "net_sent": 65.82090282440186,
+    "net_recv": 876.9797239303589,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:35:39",
+    "cpu": 13.4,
+    "ram": 76.5,
+    "disk": 37.8,
+    "net_sent": 65.92535495758057,
+    "net_recv": 877.0345621109009,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:35:44",
+    "cpu": 13.5,
+    "ram": 76.9,
+    "disk": 37.8,
+    "net_sent": 66.01328563690186,
+    "net_recv": 877.0538024902344,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:35:49",
+    "cpu": 11.2,
+    "ram": 76.8,
+    "disk": 37.8,
+    "net_sent": 66.08843517303467,
+    "net_recv": 877.0635251998901,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:35:54",
+    "cpu": 12.9,
+    "ram": 76.8,
+    "disk": 37.8,
+    "net_sent": 66.17354679107666,
+    "net_recv": 877.0874662399292,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:35:59",
+    "cpu": 12.3,
+    "ram": 77.0,
+    "disk": 37.8,
+    "net_sent": 66.27199935913086,
+    "net_recv": 877.0971536636353,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:36:04",
+    "cpu": 13.9,
+    "ram": 77.1,
+    "disk": 37.8,
+    "net_sent": 66.4796495437622,
+    "net_recv": 877.1057748794556,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:36:09",
+    "cpu": 13.4,
+    "ram": 77.1,
+    "disk": 37.8,
+    "net_sent": 66.54773807525635,
+    "net_recv": 877.1145620346069,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:36:14",
+    "cpu": 16.0,
+    "ram": 76.9,
+    "disk": 37.8,
+    "net_sent": 66.63541507720947,
+    "net_recv": 877.1246204376221,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:36:20",
+    "cpu": 12.1,
+    "ram": 76.6,
+    "disk": 37.8,
+    "net_sent": 66.7097864151001,
+    "net_recv": 877.1319389343262,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:36:25",
+    "cpu": 12.7,
+    "ram": 76.7,
+    "disk": 37.8,
+    "net_sent": 66.79187679290771,
+    "net_recv": 877.1445426940918,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:36:30",
+    "cpu": 22.5,
+    "ram": 77.4,
+    "disk": 37.8,
+    "net_sent": 67.1219367980957,
+    "net_recv": 877.153772354126,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:36:35",
+    "cpu": 16.8,
+    "ram": 78.2,
+    "disk": 37.8,
+    "net_sent": 67.26416110992432,
+    "net_recv": 877.1739387512207,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:36:40",
+    "cpu": 15.8,
+    "ram": 78.2,
+    "disk": 37.8,
+    "net_sent": 67.44451808929443,
+    "net_recv": 877.1961069107056,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:36:45",
+    "cpu": 23.6,
+    "ram": 78.6,
+    "disk": 37.8,
+    "net_sent": 67.58130836486816,
+    "net_recv": 877.2140407562256,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:36:50",
+    "cpu": 22.3,
+    "ram": 78.7,
+    "disk": 37.8,
+    "net_sent": 67.710373878479,
+    "net_recv": 877.2222700119019,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:36:55",
+    "cpu": 18.3,
+    "ram": 78.6,
+    "disk": 37.8,
+    "net_sent": 67.94631004333496,
+    "net_recv": 877.2302751541138,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:37:00",
+    "cpu": 15.7,
+    "ram": 78.7,
+    "disk": 37.8,
+    "net_sent": 68.03062534332275,
+    "net_recv": 877.2395000457764,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:37:05",
+    "cpu": 14.2,
+    "ram": 78.7,
+    "disk": 37.8,
+    "net_sent": 68.12285137176514,
+    "net_recv": 877.2610845565796,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:37:10",
+    "cpu": 16.5,
+    "ram": 79.4,
+    "disk": 37.8,
+    "net_sent": 68.39888000488281,
+    "net_recv": 877.2685022354126,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:37:15",
+    "cpu": 18.9,
+    "ram": 79.5,
+    "disk": 37.8,
+    "net_sent": 68.50879669189453,
+    "net_recv": 877.2758836746216,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:37:20",
+    "cpu": 23.1,
+    "ram": 79.3,
+    "disk": 37.8,
+    "net_sent": 68.67086505889893,
+    "net_recv": 877.297381401062,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:37:25",
+    "cpu": 17.1,
+    "ram": 79.1,
+    "disk": 37.8,
+    "net_sent": 68.77629947662354,
+    "net_recv": 877.310227394104,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:37:30",
+    "cpu": 34.3,
+    "ram": 80.6,
+    "disk": 37.8,
+    "net_sent": 68.89046955108643,
+    "net_recv": 877.3370161056519,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:37:35",
+    "cpu": 17.1,
+    "ram": 80.1,
+    "disk": 37.8,
+    "net_sent": 68.97849369049072,
+    "net_recv": 877.3469686508179,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:37:40",
+    "cpu": 17.6,
+    "ram": 79.2,
+    "disk": 37.8,
+    "net_sent": 69.08185195922852,
+    "net_recv": 877.3548355102539,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:37:45",
+    "cpu": 22.5,
+    "ram": 79.7,
+    "disk": 37.8,
+    "net_sent": 69.24882984161377,
+    "net_recv": 877.4122514724731,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:37:50",
+    "cpu": 15.1,
+    "ram": 79.2,
+    "disk": 37.8,
+    "net_sent": 69.33358478546143,
+    "net_recv": 877.4260587692261,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:37:55",
+    "cpu": 13.8,
+    "ram": 79.2,
+    "disk": 37.8,
+    "net_sent": 69.51372909545898,
+    "net_recv": 877.4463624954224,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:38:00",
+    "cpu": 14.1,
+    "ram": 79.2,
+    "disk": 37.8,
+    "net_sent": 69.58586692810059,
+    "net_recv": 877.4566736221313,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:38:06",
+    "cpu": 12.1,
+    "ram": 79.1,
+    "disk": 37.8,
+    "net_sent": 69.66216659545898,
+    "net_recv": 877.4684286117554,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:38:11",
+    "cpu": 12.2,
+    "ram": 79.0,
+    "disk": 37.8,
+    "net_sent": 69.73788356781006,
+    "net_recv": 877.4766454696655,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:38:16",
+    "cpu": 12.6,
+    "ram": 79.3,
+    "disk": 37.8,
+    "net_sent": 69.84043979644775,
+    "net_recv": 877.5158824920654,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:38:21",
+    "cpu": 18.6,
+    "ram": 79.8,
+    "disk": 37.8,
+    "net_sent": 69.99057483673096,
+    "net_recv": 877.5437593460083,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:38:26",
+    "cpu": 38.0,
+    "ram": 80.3,
+    "disk": 37.8,
+    "net_sent": 70.33855247497559,
+    "net_recv": 877.5589990615845,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:38:31",
+    "cpu": 13.1,
+    "ram": 80.3,
+    "disk": 37.8,
+    "net_sent": 70.46338558197021,
+    "net_recv": 877.5759143829346,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:38:36",
+    "cpu": 14.7,
+    "ram": 80.1,
+    "disk": 37.8,
+    "net_sent": 70.53984451293945,
+    "net_recv": 877.5842885971069,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:38:41",
+    "cpu": 14.3,
+    "ram": 80.1,
+    "disk": 37.8,
+    "net_sent": 70.66142559051514,
+    "net_recv": 877.606143951416,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:38:46",
+    "cpu": 11.0,
+    "ram": 80.2,
+    "disk": 37.8,
+    "net_sent": 70.74386501312256,
+    "net_recv": 877.6320495605469,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:38:51",
+    "cpu": 11.4,
+    "ram": 80.2,
+    "disk": 37.8,
+    "net_sent": 70.82069396972656,
+    "net_recv": 877.6419944763184,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:38:56",
+    "cpu": 14.3,
+    "ram": 80.1,
+    "disk": 37.8,
+    "net_sent": 70.91559314727783,
+    "net_recv": 877.6565732955933,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:39:01",
+    "cpu": 12.5,
+    "ram": 80.2,
+    "disk": 37.8,
+    "net_sent": 70.99033451080322,
+    "net_recv": 877.6644735336304,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:39:06",
+    "cpu": 13.3,
+    "ram": 80.2,
+    "disk": 37.8,
+    "net_sent": 71.08229160308838,
+    "net_recv": 877.6847801208496,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:39:11",
+    "cpu": 13.7,
+    "ram": 80.2,
+    "disk": 37.8,
+    "net_sent": 71.15943241119385,
+    "net_recv": 877.7073240280151,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:39:16",
+    "cpu": 15.6,
+    "ram": 78.9,
+    "disk": 37.8,
+    "net_sent": 71.2353286743164,
+    "net_recv": 877.7174644470215,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:39:21",
+    "cpu": 18.9,
+    "ram": 79.2,
+    "disk": 37.8,
+    "net_sent": 71.33749008178711,
+    "net_recv": 877.7311763763428,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:39:26",
+    "cpu": 19.4,
+    "ram": 79.3,
+    "disk": 37.8,
+    "net_sent": 71.63808917999268,
+    "net_recv": 877.7521600723267,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:39:31",
+    "cpu": 18.6,
+    "ram": 79.3,
+    "disk": 37.8,
+    "net_sent": 71.73452186584473,
+    "net_recv": 877.763726234436,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:39:36",
+    "cpu": 17.4,
+    "ram": 79.4,
+    "disk": 37.8,
+    "net_sent": 71.83843517303467,
+    "net_recv": 877.7733478546143,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:39:42",
+    "cpu": 19.8,
+    "ram": 79.5,
+    "disk": 37.8,
+    "net_sent": 71.9346694946289,
+    "net_recv": 877.7940893173218,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:39:47",
+    "cpu": 18.7,
+    "ram": 79.5,
+    "disk": 37.8,
+    "net_sent": 72.01920318603516,
+    "net_recv": 877.8027954101562,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:39:52",
+    "cpu": 16.3,
+    "ram": 79.5,
+    "disk": 37.8,
+    "net_sent": 72.11344528198242,
+    "net_recv": 877.8785772323608,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:39:57",
+    "cpu": 14.8,
+    "ram": 79.5,
+    "disk": 37.8,
+    "net_sent": 72.23048400878906,
+    "net_recv": 877.8968391418457,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:40:02",
+    "cpu": 16.4,
+    "ram": 79.5,
+    "disk": 37.8,
+    "net_sent": 72.33097839355469,
+    "net_recv": 877.9118061065674,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:40:07",
+    "cpu": 26.1,
+    "ram": 79.7,
+    "disk": 37.8,
+    "net_sent": 72.43353652954102,
+    "net_recv": 877.9225063323975,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:40:12",
+    "cpu": 28.5,
+    "ram": 79.7,
+    "disk": 37.8,
+    "net_sent": 72.677077293396,
+    "net_recv": 877.942925453186,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:40:17",
+    "cpu": 25.4,
+    "ram": 80.1,
+    "disk": 37.8,
+    "net_sent": 72.81439304351807,
+    "net_recv": 877.9525756835938,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:40:22",
+    "cpu": 21.6,
+    "ram": 80.0,
+    "disk": 37.8,
+    "net_sent": 72.9214038848877,
+    "net_recv": 877.9733057022095,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:40:27",
+    "cpu": 25.9,
+    "ram": 80.8,
+    "disk": 37.8,
+    "net_sent": 73.02821826934814,
+    "net_recv": 877.993821144104,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:40:32",
+    "cpu": 17.9,
+    "ram": 80.8,
+    "disk": 37.8,
+    "net_sent": 73.12709140777588,
+    "net_recv": 878.0131711959839,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:40:37",
+    "cpu": 15.0,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 73.24081897735596,
+    "net_recv": 878.0329818725586,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:40:42",
+    "cpu": 18.6,
+    "ram": 81.3,
+    "disk": 37.8,
+    "net_sent": 73.32940769195557,
+    "net_recv": 878.043924331665,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:40:47",
+    "cpu": 22.3,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 73.42981243133545,
+    "net_recv": 878.0573110580444,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:40:52",
+    "cpu": 21.0,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 73.5060863494873,
+    "net_recv": 878.0693216323853,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:40:57",
+    "cpu": 18.3,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 73.59037780761719,
+    "net_recv": 878.0789556503296,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:41:02",
+    "cpu": 11.2,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 73.66274547576904,
+    "net_recv": 878.0885105133057,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:41:07",
+    "cpu": 11.4,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 73.74851322174072,
+    "net_recv": 878.1074295043945,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:41:12",
+    "cpu": 14.7,
+    "ram": 80.8,
+    "disk": 37.8,
+    "net_sent": 73.82513999938965,
+    "net_recv": 878.1158294677734,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:41:17",
+    "cpu": 13.9,
+    "ram": 80.8,
+    "disk": 37.8,
+    "net_sent": 73.92900562286377,
+    "net_recv": 878.1248989105225,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:41:22",
+    "cpu": 12.5,
+    "ram": 80.7,
+    "disk": 37.8,
+    "net_sent": 74.02601718902588,
+    "net_recv": 878.1438035964966,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:41:28",
+    "cpu": 12.9,
+    "ram": 80.7,
+    "disk": 37.8,
+    "net_sent": 74.1000747680664,
+    "net_recv": 878.1560697555542,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:41:33",
+    "cpu": 16.3,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 74.17730712890625,
+    "net_recv": 878.1674451828003,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:41:38",
+    "cpu": 20.3,
+    "ram": 81.6,
+    "disk": 37.8,
+    "net_sent": 74.30295753479004,
+    "net_recv": 878.185188293457,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:41:43",
+    "cpu": 13.9,
+    "ram": 81.7,
+    "disk": 37.8,
+    "net_sent": 74.37981700897217,
+    "net_recv": 878.201473236084,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:41:48",
+    "cpu": 21.8,
+    "ram": 82.1,
+    "disk": 37.8,
+    "net_sent": 74.51168155670166,
+    "net_recv": 878.2125253677368,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:41:53",
+    "cpu": 23.7,
+    "ram": 82.2,
+    "disk": 37.8,
+    "net_sent": 74.71819972991943,
+    "net_recv": 878.227481842041,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:41:58",
+    "cpu": 21.7,
+    "ram": 82.3,
+    "disk": 37.8,
+    "net_sent": 74.84574699401855,
+    "net_recv": 878.2614822387695,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:42:03",
+    "cpu": 15.6,
+    "ram": 82.3,
+    "disk": 37.8,
+    "net_sent": 74.95140552520752,
+    "net_recv": 878.2746267318726,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:42:08",
+    "cpu": 14.6,
+    "ram": 82.3,
+    "disk": 37.8,
+    "net_sent": 75.02835464477539,
+    "net_recv": 878.2848510742188,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:42:13",
+    "cpu": 14.7,
+    "ram": 82.1,
+    "disk": 37.8,
+    "net_sent": 75.11137676239014,
+    "net_recv": 878.2957391738892,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:42:18",
+    "cpu": 14.5,
+    "ram": 82.3,
+    "disk": 37.8,
+    "net_sent": 75.19017124176025,
+    "net_recv": 878.4056882858276,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:42:23",
+    "cpu": 22.0,
+    "ram": 84.8,
+    "disk": 37.8,
+    "net_sent": 75.2958345413208,
+    "net_recv": 878.5843381881714,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:42:28",
+    "cpu": 15.2,
+    "ram": 83.7,
+    "disk": 37.8,
+    "net_sent": 75.39401435852051,
+    "net_recv": 878.606029510498,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:42:33",
+    "cpu": 12.2,
+    "ram": 83.2,
+    "disk": 37.8,
+    "net_sent": 75.47881126403809,
+    "net_recv": 878.6259698867798,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:42:38",
+    "cpu": 12.9,
+    "ram": 82.1,
+    "disk": 37.8,
+    "net_sent": 75.55341911315918,
+    "net_recv": 878.6354494094849,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:42:43",
+    "cpu": 14.6,
+    "ram": 82.5,
+    "disk": 37.8,
+    "net_sent": 75.64045143127441,
+    "net_recv": 878.6483745574951,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:42:48",
+    "cpu": 14.7,
+    "ram": 82.4,
+    "disk": 37.8,
+    "net_sent": 75.71857643127441,
+    "net_recv": 878.6581344604492,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:42:53",
+    "cpu": 11.7,
+    "ram": 82.4,
+    "disk": 37.8,
+    "net_sent": 75.79393577575684,
+    "net_recv": 878.6673669815063,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:42:58",
+    "cpu": 19.0,
+    "ram": 81.5,
+    "disk": 37.8,
+    "net_sent": 75.88866519927979,
+    "net_recv": 878.7117338180542,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:43:03",
+    "cpu": 14.8,
+    "ram": 81.1,
+    "disk": 37.8,
+    "net_sent": 76.01975727081299,
+    "net_recv": 878.719539642334,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:43:08",
+    "cpu": 10.4,
+    "ram": 81.2,
+    "disk": 37.8,
+    "net_sent": 76.10340213775635,
+    "net_recv": 878.7384014129639,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:43:13",
+    "cpu": 11.1,
+    "ram": 81.1,
+    "disk": 37.8,
+    "net_sent": 76.18014335632324,
+    "net_recv": 878.7507972717285,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:43:19",
+    "cpu": 12.9,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 76.25410270690918,
+    "net_recv": 878.7581129074097,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:43:24",
+    "cpu": 11.4,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 76.32953071594238,
+    "net_recv": 878.7649116516113,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:43:29",
+    "cpu": 11.9,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 76.4175157546997,
+    "net_recv": 878.7788038253784,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:43:34",
+    "cpu": 21.1,
+    "ram": 81.2,
+    "disk": 37.8,
+    "net_sent": 76.53325462341309,
+    "net_recv": 878.8007287979126,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:43:39",
+    "cpu": 17.3,
+    "ram": 81.9,
+    "disk": 37.8,
+    "net_sent": 76.68774509429932,
+    "net_recv": 878.8182506561279,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:43:44",
+    "cpu": 22.5,
+    "ram": 81.9,
+    "disk": 37.8,
+    "net_sent": 76.82828140258789,
+    "net_recv": 878.8567810058594,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:43:49",
+    "cpu": 12.9,
+    "ram": 81.8,
+    "disk": 37.8,
+    "net_sent": 76.92110633850098,
+    "net_recv": 878.8707408905029,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:43:54",
+    "cpu": 13.7,
+    "ram": 81.7,
+    "disk": 37.8,
+    "net_sent": 76.99893188476562,
+    "net_recv": 878.8832702636719,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:43:59",
+    "cpu": 15.6,
+    "ram": 81.9,
+    "disk": 37.8,
+    "net_sent": 77.10370349884033,
+    "net_recv": 878.9019451141357,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:44:04",
+    "cpu": 13.5,
+    "ram": 81.9,
+    "disk": 37.8,
+    "net_sent": 77.17881298065186,
+    "net_recv": 878.9124221801758,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:44:09",
+    "cpu": 16.6,
+    "ram": 81.9,
+    "disk": 37.8,
+    "net_sent": 77.30395698547363,
+    "net_recv": 878.9321794509888,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:44:14",
+    "cpu": 16.2,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 77.38851928710938,
+    "net_recv": 878.9500980377197,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:44:19",
+    "cpu": 18.5,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 77.48754119873047,
+    "net_recv": 878.9607048034668,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:44:24",
+    "cpu": 12.8,
+    "ram": 80.8,
+    "disk": 37.8,
+    "net_sent": 77.56019115447998,
+    "net_recv": 878.973931312561,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:44:29",
+    "cpu": 13.0,
+    "ram": 80.8,
+    "disk": 37.8,
+    "net_sent": 77.63991737365723,
+    "net_recv": 878.9842329025269,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:44:34",
+    "cpu": 15.6,
+    "ram": 80.8,
+    "disk": 37.8,
+    "net_sent": 77.77477359771729,
+    "net_recv": 878.9954538345337,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:44:39",
+    "cpu": 10.8,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 77.8446273803711,
+    "net_recv": 879.0072021484375,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:44:44",
+    "cpu": 15.4,
+    "ram": 81.3,
+    "disk": 37.8,
+    "net_sent": 77.95183563232422,
+    "net_recv": 879.0269994735718,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:44:49",
+    "cpu": 10.8,
+    "ram": 81.3,
+    "disk": 37.8,
+    "net_sent": 78.02838039398193,
+    "net_recv": 879.0420732498169,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:44:54",
+    "cpu": 11.0,
+    "ram": 81.1,
+    "disk": 37.8,
+    "net_sent": 78.11294460296631,
+    "net_recv": 879.112096786499,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:44:59",
+    "cpu": 16.7,
+    "ram": 81.2,
+    "disk": 37.8,
+    "net_sent": 78.25721740722656,
+    "net_recv": 879.1244020462036,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:45:04",
+    "cpu": 12.5,
+    "ram": 81.2,
+    "disk": 37.8,
+    "net_sent": 78.37631034851074,
+    "net_recv": 879.1360025405884,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:45:10",
+    "cpu": 11.5,
+    "ram": 81.2,
+    "disk": 37.8,
+    "net_sent": 78.56203079223633,
+    "net_recv": 879.1535949707031,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:45:15",
+    "cpu": 10.5,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 78.6403112411499,
+    "net_recv": 879.1697072982788,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:45:20",
+    "cpu": 12.3,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 78.72528648376465,
+    "net_recv": 879.2057723999023,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:45:25",
+    "cpu": 11.4,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 78.80106925964355,
+    "net_recv": 879.217827796936,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:45:30",
+    "cpu": 18.7,
+    "ram": 81.3,
+    "disk": 37.8,
+    "net_sent": 78.92480373382568,
+    "net_recv": 879.2383556365967,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:45:35",
+    "cpu": 17.5,
+    "ram": 81.4,
+    "disk": 37.8,
+    "net_sent": 79.06036758422852,
+    "net_recv": 879.2473220825195,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:45:40",
+    "cpu": 13.0,
+    "ram": 81.2,
+    "disk": 37.8,
+    "net_sent": 79.14985656738281,
+    "net_recv": 879.2646503448486,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:45:45",
+    "cpu": 11.0,
+    "ram": 81.1,
+    "disk": 37.8,
+    "net_sent": 79.23352527618408,
+    "net_recv": 879.2750072479248,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:45:50",
+    "cpu": 14.7,
+    "ram": 81.1,
+    "disk": 37.8,
+    "net_sent": 79.32417678833008,
+    "net_recv": 879.2915735244751,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:45:55",
+    "cpu": 11.4,
+    "ram": 81.1,
+    "disk": 37.8,
+    "net_sent": 79.40801811218262,
+    "net_recv": 879.3063497543335,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:46:00",
+    "cpu": 11.0,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 79.48983001708984,
+    "net_recv": 879.3236446380615,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:46:05",
+    "cpu": 11.8,
+    "ram": 81.1,
+    "disk": 37.8,
+    "net_sent": 79.56499099731445,
+    "net_recv": 879.3348522186279,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:46:10",
+    "cpu": 12.1,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 79.64129638671875,
+    "net_recv": 879.3466215133667,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:46:15",
+    "cpu": 12.1,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 79.72007846832275,
+    "net_recv": 879.3578758239746,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:46:20",
+    "cpu": 11.1,
+    "ram": 80.8,
+    "disk": 37.8,
+    "net_sent": 79.79558181762695,
+    "net_recv": 879.3681926727295,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:46:25",
+    "cpu": 13.3,
+    "ram": 80.8,
+    "disk": 37.8,
+    "net_sent": 79.87080192565918,
+    "net_recv": 879.3772411346436,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:46:30",
+    "cpu": 14.3,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 79.97917747497559,
+    "net_recv": 879.38987159729,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:46:35",
+    "cpu": 13.2,
+    "ram": 81.6,
+    "disk": 37.8,
+    "net_sent": 80.06288242340088,
+    "net_recv": 879.4082050323486,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:46:40",
+    "cpu": 13.7,
+    "ram": 81.7,
+    "disk": 37.8,
+    "net_sent": 80.1488208770752,
+    "net_recv": 879.4258117675781,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:46:45",
+    "cpu": 11.8,
+    "ram": 81.9,
+    "disk": 37.8,
+    "net_sent": 80.22435665130615,
+    "net_recv": 879.436601638794,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:46:51",
+    "cpu": 10.6,
+    "ram": 81.4,
+    "disk": 37.8,
+    "net_sent": 80.29987049102783,
+    "net_recv": 879.4479446411133,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:46:56",
+    "cpu": 10.9,
+    "ram": 81.4,
+    "disk": 37.8,
+    "net_sent": 80.37534141540527,
+    "net_recv": 879.4601383209229,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:47:01",
+    "cpu": 11.2,
+    "ram": 81.4,
+    "disk": 37.8,
+    "net_sent": 80.45102024078369,
+    "net_recv": 879.4741048812866,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:47:06",
+    "cpu": 11.2,
+    "ram": 81.5,
+    "disk": 37.8,
+    "net_sent": 80.52608966827393,
+    "net_recv": 879.4844827651978,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:47:11",
+    "cpu": 9.8,
+    "ram": 81.4,
+    "disk": 37.8,
+    "net_sent": 80.61100578308105,
+    "net_recv": 879.5060815811157,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:47:16",
+    "cpu": 12.3,
+    "ram": 81.5,
+    "disk": 37.8,
+    "net_sent": 80.68627262115479,
+    "net_recv": 879.5192079544067,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:47:21",
+    "cpu": 13.0,
+    "ram": 81.4,
+    "disk": 37.8,
+    "net_sent": 80.81007480621338,
+    "net_recv": 879.5283279418945,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:47:26",
+    "cpu": 10.2,
+    "ram": 81.3,
+    "disk": 37.8,
+    "net_sent": 80.8846263885498,
+    "net_recv": 879.5383615493774,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:47:31",
+    "cpu": 12.2,
+    "ram": 81.3,
+    "disk": 37.8,
+    "net_sent": 80.97596073150635,
+    "net_recv": 879.559380531311,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:47:36",
+    "cpu": 10.7,
+    "ram": 81.2,
+    "disk": 37.8,
+    "net_sent": 81.0531644821167,
+    "net_recv": 879.5700035095215,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:47:41",
+    "cpu": 10.9,
+    "ram": 81.3,
+    "disk": 37.8,
+    "net_sent": 81.12859439849854,
+    "net_recv": 879.5796422958374,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:47:46",
+    "cpu": 11.1,
+    "ram": 81.1,
+    "disk": 37.8,
+    "net_sent": 81.2036304473877,
+    "net_recv": 879.5893802642822,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:47:51",
+    "cpu": 10.5,
+    "ram": 81.1,
+    "disk": 37.8,
+    "net_sent": 81.2770586013794,
+    "net_recv": 879.5984344482422,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:47:56",
+    "cpu": 12.7,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 81.3533353805542,
+    "net_recv": 879.6067171096802,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:48:01",
+    "cpu": 11.6,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 81.43580436706543,
+    "net_recv": 879.6260032653809,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:48:06",
+    "cpu": 11.6,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 81.510329246521,
+    "net_recv": 879.6369867324829,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:48:11",
+    "cpu": 10.7,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 81.59829902648926,
+    "net_recv": 879.6577253341675,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:48:16",
+    "cpu": 12.3,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 81.67681121826172,
+    "net_recv": 879.6709470748901,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:48:21",
+    "cpu": 11.1,
+    "ram": 80.6,
+    "disk": 37.8,
+    "net_sent": 81.75120162963867,
+    "net_recv": 879.6793918609619,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:48:26",
+    "cpu": 11.3,
+    "ram": 80.8,
+    "disk": 37.8,
+    "net_sent": 81.846604347229,
+    "net_recv": 879.6909627914429,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:48:31",
+    "cpu": 13.2,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 81.94905185699463,
+    "net_recv": 879.699182510376,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:48:37",
+    "cpu": 10.4,
+    "ram": 80.8,
+    "disk": 37.8,
+    "net_sent": 82.02285385131836,
+    "net_recv": 879.7096290588379,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:48:42",
+    "cpu": 10.8,
+    "ram": 81.2,
+    "disk": 37.8,
+    "net_sent": 82.14205646514893,
+    "net_recv": 879.7208623886108,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:48:47",
+    "cpu": 16.1,
+    "ram": 81.3,
+    "disk": 37.8,
+    "net_sent": 82.23100185394287,
+    "net_recv": 879.7362957000732,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:48:52",
+    "cpu": 13.1,
+    "ram": 81.2,
+    "disk": 37.8,
+    "net_sent": 82.34998989105225,
+    "net_recv": 879.7480592727661,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:48:57",
+    "cpu": 10.8,
+    "ram": 81.2,
+    "disk": 37.8,
+    "net_sent": 82.42406272888184,
+    "net_recv": 879.757173538208,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:49:02",
+    "cpu": 11.5,
+    "ram": 81.1,
+    "disk": 37.8,
+    "net_sent": 82.49871444702148,
+    "net_recv": 879.7667207717896,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:49:07",
+    "cpu": 11.0,
+    "ram": 81.1,
+    "disk": 37.8,
+    "net_sent": 82.57373428344727,
+    "net_recv": 879.77552318573,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:49:12",
+    "cpu": 12.2,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 82.65629005432129,
+    "net_recv": 879.7935771942139,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:49:17",
+    "cpu": 13.2,
+    "ram": 78.9,
+    "disk": 37.8,
+    "net_sent": 82.73283863067627,
+    "net_recv": 879.8036499023438,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:49:22",
+    "cpu": 11.1,
+    "ram": 78.9,
+    "disk": 37.8,
+    "net_sent": 82.80792713165283,
+    "net_recv": 879.8145666122437,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:49:27",
+    "cpu": 11.9,
+    "ram": 78.7,
+    "disk": 37.8,
+    "net_sent": 82.88334369659424,
+    "net_recv": 879.8267211914062,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:49:32",
+    "cpu": 11.1,
+    "ram": 78.9,
+    "disk": 37.8,
+    "net_sent": 82.96557521820068,
+    "net_recv": 879.8420295715332,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:49:37",
+    "cpu": 11.1,
+    "ram": 79.3,
+    "disk": 37.8,
+    "net_sent": 83.05182838439941,
+    "net_recv": 879.8652257919312,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:49:42",
+    "cpu": 10.4,
+    "ram": 79.5,
+    "disk": 37.8,
+    "net_sent": 83.1539134979248,
+    "net_recv": 879.8958292007446,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:49:47",
+    "cpu": 13.6,
+    "ram": 79.6,
+    "disk": 37.8,
+    "net_sent": 83.23531723022461,
+    "net_recv": 879.907636642456,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:49:52",
+    "cpu": 11.2,
+    "ram": 79.6,
+    "disk": 37.8,
+    "net_sent": 83.32847881317139,
+    "net_recv": 879.9995079040527,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:49:57",
+    "cpu": 11.3,
+    "ram": 79.7,
+    "disk": 37.8,
+    "net_sent": 83.41932010650635,
+    "net_recv": 880.0224647521973,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:50:02",
+    "cpu": 11.0,
+    "ram": 79.7,
+    "disk": 37.8,
+    "net_sent": 83.49765491485596,
+    "net_recv": 880.0417861938477,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:50:07",
+    "cpu": 12.8,
+    "ram": 79.7,
+    "disk": 37.8,
+    "net_sent": 83.57822704315186,
+    "net_recv": 880.0539379119873,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:50:12",
+    "cpu": 14.9,
+    "ram": 79.8,
+    "disk": 37.8,
+    "net_sent": 83.70527076721191,
+    "net_recv": 880.0715456008911,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:50:17",
+    "cpu": 21.0,
+    "ram": 80.1,
+    "disk": 37.8,
+    "net_sent": 83.80818176269531,
+    "net_recv": 880.0858364105225,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:50:23",
+    "cpu": 10.2,
+    "ram": 80.0,
+    "disk": 37.8,
+    "net_sent": 83.88099193572998,
+    "net_recv": 880.0971260070801,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:50:28",
+    "cpu": 12.1,
+    "ram": 79.9,
+    "disk": 37.8,
+    "net_sent": 83.95994091033936,
+    "net_recv": 880.106686592102,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:50:33",
+    "cpu": 12.5,
+    "ram": 79.9,
+    "disk": 37.8,
+    "net_sent": 84.03872680664062,
+    "net_recv": 880.121844291687,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:50:38",
+    "cpu": 12.3,
+    "ram": 79.9,
+    "disk": 37.8,
+    "net_sent": 84.14357471466064,
+    "net_recv": 880.1631011962891,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:50:43",
+    "cpu": 24.0,
+    "ram": 80.4,
+    "disk": 37.8,
+    "net_sent": 84.26118087768555,
+    "net_recv": 880.20285987854,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:50:48",
+    "cpu": 13.8,
+    "ram": 80.3,
+    "disk": 37.8,
+    "net_sent": 84.3496446609497,
+    "net_recv": 880.2227373123169,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:50:53",
+    "cpu": 15.3,
+    "ram": 80.3,
+    "disk": 37.8,
+    "net_sent": 84.43935585021973,
+    "net_recv": 880.2333536148071,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:50:58",
+    "cpu": 14.7,
+    "ram": 80.3,
+    "disk": 37.8,
+    "net_sent": 84.55513191223145,
+    "net_recv": 880.2462148666382,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:51:03",
+    "cpu": 17.1,
+    "ram": 80.2,
+    "disk": 37.8,
+    "net_sent": 84.66418361663818,
+    "net_recv": 880.2537565231323,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:51:08",
+    "cpu": 23.9,
+    "ram": 80.4,
+    "disk": 37.8,
+    "net_sent": 84.81237888336182,
+    "net_recv": 880.2621603012085,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:51:13",
+    "cpu": 21.4,
+    "ram": 80.7,
+    "disk": 37.8,
+    "net_sent": 84.93092346191406,
+    "net_recv": 880.2766761779785,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:51:18",
+    "cpu": 17.6,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 85.06417179107666,
+    "net_recv": 880.2856492996216,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:51:23",
+    "cpu": 16.7,
+    "ram": 80.6,
+    "disk": 37.8,
+    "net_sent": 85.16264724731445,
+    "net_recv": 880.2968673706055,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:51:28",
+    "cpu": 12.3,
+    "ram": 80.4,
+    "disk": 37.8,
+    "net_sent": 85.23806953430176,
+    "net_recv": 880.308629989624,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:51:33",
+    "cpu": 10.9,
+    "ram": 80.7,
+    "disk": 37.8,
+    "net_sent": 85.3097152709961,
+    "net_recv": 880.3160037994385,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:51:38",
+    "cpu": 12.0,
+    "ram": 80.9,
+    "disk": 37.8,
+    "net_sent": 85.39783573150635,
+    "net_recv": 880.3359184265137,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:51:43",
+    "cpu": 19.5,
+    "ram": 81.8,
+    "disk": 37.8,
+    "net_sent": 85.54594802856445,
+    "net_recv": 880.345869064331,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:51:48",
+    "cpu": 13.6,
+    "ram": 81.7,
+    "disk": 37.8,
+    "net_sent": 85.75013446807861,
+    "net_recv": 880.3545064926147,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:51:53",
+    "cpu": 36.2,
+    "ram": 82.9,
+    "disk": 37.8,
+    "net_sent": 86.16219711303711,
+    "net_recv": 880.3838329315186,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:51:58",
+    "cpu": 22.2,
+    "ram": 82.4,
+    "disk": 37.8,
+    "net_sent": 86.35331153869629,
+    "net_recv": 880.3997240066528,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:52:03",
+    "cpu": 17.6,
+    "ram": 82.3,
+    "disk": 37.8,
+    "net_sent": 86.4927110671997,
+    "net_recv": 880.4057950973511,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:52:08",
+    "cpu": 32.0,
+    "ram": 82.6,
+    "disk": 37.8,
+    "net_sent": 86.74483013153076,
+    "net_recv": 880.416877746582,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:52:14",
+    "cpu": 14.2,
+    "ram": 82.1,
+    "disk": 37.8,
+    "net_sent": 86.84558391571045,
+    "net_recv": 880.4206809997559,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:52:19",
+    "cpu": 14.0,
+    "ram": 82.2,
+    "disk": 37.8,
+    "net_sent": 87.02842330932617,
+    "net_recv": 880.4435558319092,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:52:24",
+    "cpu": 22.6,
+    "ram": 82.1,
+    "disk": 37.8,
+    "net_sent": 87.14564609527588,
+    "net_recv": 880.4518194198608,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:52:29",
+    "cpu": 20.1,
+    "ram": 82.2,
+    "disk": 37.8,
+    "net_sent": 87.28511905670166,
+    "net_recv": 880.4716062545776,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:52:34",
+    "cpu": 16.8,
+    "ram": 81.9,
+    "disk": 37.8,
+    "net_sent": 87.4961347579956,
+    "net_recv": 880.4833116531372,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:52:39",
+    "cpu": 12.2,
+    "ram": 81.5,
+    "disk": 37.8,
+    "net_sent": 87.61353015899658,
+    "net_recv": 880.4919786453247,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:52:44",
+    "cpu": 22.3,
+    "ram": 81.6,
+    "disk": 37.8,
+    "net_sent": 87.70584297180176,
+    "net_recv": 880.5021543502808,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:52:49",
+    "cpu": 21.4,
+    "ram": 81.7,
+    "disk": 37.8,
+    "net_sent": 87.89251232147217,
+    "net_recv": 880.5252161026001,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:52:54",
+    "cpu": 19.2,
+    "ram": 80.1,
+    "disk": 37.8,
+    "net_sent": 87.97132587432861,
+    "net_recv": 880.5362939834595,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:52:59",
+    "cpu": 20.5,
+    "ram": 80.0,
+    "disk": 37.8,
+    "net_sent": 88.10930824279785,
+    "net_recv": 880.5643033981323,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:53:04",
+    "cpu": 13.7,
+    "ram": 79.8,
+    "disk": 37.8,
+    "net_sent": 88.18769931793213,
+    "net_recv": 880.5754728317261,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:53:09",
+    "cpu": 12.5,
+    "ram": 79.8,
+    "disk": 37.8,
+    "net_sent": 88.50517654418945,
+    "net_recv": 880.589430809021,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:53:14",
+    "cpu": 17.0,
+    "ram": 79.6,
+    "disk": 37.8,
+    "net_sent": 88.58309173583984,
+    "net_recv": 880.611837387085,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:53:19",
+    "cpu": 20.6,
+    "ram": 80.0,
+    "disk": 37.8,
+    "net_sent": 88.70496082305908,
+    "net_recv": 880.6274909973145,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:53:24",
+    "cpu": 15.7,
+    "ram": 80.0,
+    "disk": 37.8,
+    "net_sent": 88.80433940887451,
+    "net_recv": 880.6367387771606,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:53:29",
+    "cpu": 13.8,
+    "ram": 79.9,
+    "disk": 37.8,
+    "net_sent": 88.87975311279297,
+    "net_recv": 880.6452713012695,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:53:34",
+    "cpu": 12.8,
+    "ram": 79.4,
+    "disk": 37.8,
+    "net_sent": 88.97194480895996,
+    "net_recv": 880.654393196106,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:53:39",
+    "cpu": 12.8,
+    "ram": 79.4,
+    "disk": 37.8,
+    "net_sent": 89.10401821136475,
+    "net_recv": 880.6788702011108,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:53:44",
+    "cpu": 13.6,
+    "ram": 79.7,
+    "disk": 37.8,
+    "net_sent": 89.19138717651367,
+    "net_recv": 880.6899900436401,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:53:49",
+    "cpu": 12.8,
+    "ram": 80.4,
+    "disk": 37.8,
+    "net_sent": 89.30308628082275,
+    "net_recv": 880.902997970581,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:53:54",
+    "cpu": 14.3,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 89.3788194656372,
+    "net_recv": 880.9166612625122,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:54:00",
+    "cpu": 11.8,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 89.46731281280518,
+    "net_recv": 880.9402313232422,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:54:05",
+    "cpu": 12.9,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 89.53812026977539,
+    "net_recv": 880.9492359161377,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:54:10",
+    "cpu": 11.6,
+    "ram": 81.0,
+    "disk": 37.8,
+    "net_sent": 89.65196132659912,
+    "net_recv": 880.9583358764648,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:54:15",
+    "cpu": 13.6,
+    "ram": 79.0,
+    "disk": 37.8,
+    "net_sent": 89.74518585205078,
+    "net_recv": 880.9793605804443,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:54:20",
+    "cpu": 21.2,
+    "ram": 77.4,
+    "disk": 37.8,
+    "net_sent": 89.84643268585205,
+    "net_recv": 880.9924879074097,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:54:25",
+    "cpu": 14.2,
+    "ram": 77.2,
+    "disk": 37.8,
+    "net_sent": 89.93065738677979,
+    "net_recv": 880.9984445571899,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:54:30",
+    "cpu": 12.8,
+    "ram": 77.2,
+    "disk": 37.8,
+    "net_sent": 90.04446506500244,
+    "net_recv": 881.0076551437378,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:54:35",
+    "cpu": 12.0,
+    "ram": 77.2,
+    "disk": 37.8,
+    "net_sent": 90.11772060394287,
+    "net_recv": 881.0191516876221,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:54:40",
+    "cpu": 11.7,
+    "ram": 77.3,
+    "disk": 37.8,
+    "net_sent": 90.19290256500244,
+    "net_recv": 881.0544557571411,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:54:45",
+    "cpu": 20.9,
+    "ram": 77.9,
+    "disk": 37.8,
+    "net_sent": 90.2739667892456,
+    "net_recv": 881.071533203125,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:54:50",
+    "cpu": 16.9,
+    "ram": 78.2,
+    "disk": 37.8,
+    "net_sent": 90.38438701629639,
+    "net_recv": 881.1113138198853,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:54:55",
+    "cpu": 20.3,
+    "ram": 78.2,
+    "disk": 37.8,
+    "net_sent": 90.52739906311035,
+    "net_recv": 881.1997289657593,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:55:00",
+    "cpu": 13.6,
+    "ram": 78.4,
+    "disk": 37.8,
+    "net_sent": 90.62308406829834,
+    "net_recv": 881.2299909591675,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:55:05",
+    "cpu": 11.5,
+    "ram": 78.3,
+    "disk": 37.8,
+    "net_sent": 90.69943618774414,
+    "net_recv": 881.2451658248901,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:55:10",
+    "cpu": 12.1,
+    "ram": 78.2,
+    "disk": 37.8,
+    "net_sent": 90.78021812438965,
+    "net_recv": 881.2621002197266,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:55:15",
+    "cpu": 11.2,
+    "ram": 78.0,
+    "disk": 37.8,
+    "net_sent": 90.86514091491699,
+    "net_recv": 881.2915258407593,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:55:20",
+    "cpu": 13.2,
+    "ram": 77.8,
+    "disk": 37.8,
+    "net_sent": 90.94635200500488,
+    "net_recv": 881.3091201782227,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:55:25",
+    "cpu": 13.6,
+    "ram": 78.0,
+    "disk": 37.8,
+    "net_sent": 91.02025032043457,
+    "net_recv": 881.3208665847778,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:55:30",
+    "cpu": 14.6,
+    "ram": 77.9,
+    "disk": 37.8,
+    "net_sent": 91.10887718200684,
+    "net_recv": 881.3307867050171,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:55:35",
+    "cpu": 10.2,
+    "ram": 77.9,
+    "disk": 37.8,
+    "net_sent": 91.1818208694458,
+    "net_recv": 881.3395986557007,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:55:40",
+    "cpu": 23.0,
+    "ram": 78.5,
+    "disk": 37.8,
+    "net_sent": 91.4108247756958,
+    "net_recv": 881.387077331543,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:55:45",
+    "cpu": 12.7,
+    "ram": 78.4,
+    "disk": 37.8,
+    "net_sent": 91.49759769439697,
+    "net_recv": 881.4094018936157,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:55:51",
+    "cpu": 21.5,
+    "ram": 78.5,
+    "disk": 37.8,
+    "net_sent": 91.61203956604004,
+    "net_recv": 881.419192314148,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:55:56",
+    "cpu": 19.3,
+    "ram": 78.6,
+    "disk": 37.8,
+    "net_sent": 91.75296592712402,
+    "net_recv": 881.4327640533447,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:56:01",
+    "cpu": 17.7,
+    "ram": 78.7,
+    "disk": 37.8,
+    "net_sent": 91.87217235565186,
+    "net_recv": 881.4613838195801,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:56:06",
+    "cpu": 14.7,
+    "ram": 78.4,
+    "disk": 37.8,
+    "net_sent": 91.95957565307617,
+    "net_recv": 881.4785480499268,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:56:11",
+    "cpu": 22.5,
+    "ram": 78.4,
+    "disk": 37.8,
+    "net_sent": 92.0864200592041,
+    "net_recv": 881.4927339553833,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:56:16",
+    "cpu": 18.6,
+    "ram": 78.2,
+    "disk": 37.8,
+    "net_sent": 92.22055530548096,
+    "net_recv": 881.5074987411499,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:56:21",
+    "cpu": 20.5,
+    "ram": 78.2,
+    "disk": 37.8,
+    "net_sent": 92.35594272613525,
+    "net_recv": 881.5338497161865,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:56:26",
+    "cpu": 13.9,
+    "ram": 78.3,
+    "disk": 37.8,
+    "net_sent": 92.45442581176758,
+    "net_recv": 881.5506916046143,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:56:31",
+    "cpu": 18.6,
+    "ram": 78.3,
+    "disk": 37.8,
+    "net_sent": 92.62889099121094,
+    "net_recv": 881.5675086975098,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:56:36",
+    "cpu": 15.5,
+    "ram": 78.8,
+    "disk": 37.8,
+    "net_sent": 92.72546768188477,
+    "net_recv": 881.584379196167,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:56:41",
+    "cpu": 20.1,
+    "ram": 79.1,
+    "disk": 37.8,
+    "net_sent": 92.88266563415527,
+    "net_recv": 881.6164150238037,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:56:46",
+    "cpu": 14.5,
+    "ram": 78.9,
+    "disk": 37.8,
+    "net_sent": 92.96540641784668,
+    "net_recv": 881.6291780471802,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:56:51",
+    "cpu": 18.2,
+    "ram": 79.0,
+    "disk": 37.8,
+    "net_sent": 93.08239555358887,
+    "net_recv": 881.6394538879395,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:56:56",
+    "cpu": 14.4,
+    "ram": 79.0,
+    "disk": 37.8,
+    "net_sent": 93.15901565551758,
+    "net_recv": 881.6473121643066,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:57:01",
+    "cpu": 15.8,
+    "ram": 79.0,
+    "disk": 37.8,
+    "net_sent": 93.24846935272217,
+    "net_recv": 881.65833568573,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:57:06",
+    "cpu": 20.3,
+    "ram": 79.6,
+    "disk": 37.8,
+    "net_sent": 93.35995197296143,
+    "net_recv": 881.6702547073364,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:57:11",
+    "cpu": 12.7,
+    "ram": 79.3,
+    "disk": 37.8,
+    "net_sent": 93.43245506286621,
+    "net_recv": 881.6786680221558,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:57:16",
+    "cpu": 15.4,
+    "ram": 79.6,
+    "disk": 37.8,
+    "net_sent": 93.516845703125,
+    "net_recv": 881.6944694519043,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:57:21",
+    "cpu": 13.6,
+    "ram": 79.5,
+    "disk": 37.8,
+    "net_sent": 93.58970928192139,
+    "net_recv": 881.7041311264038,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:57:26",
+    "cpu": 16.6,
+    "ram": 80.4,
+    "disk": 37.8,
+    "net_sent": 93.68485355377197,
+    "net_recv": 881.7155961990356,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:57:32",
+    "cpu": 22.3,
+    "ram": 80.5,
+    "disk": 37.8,
+    "net_sent": 93.80303859710693,
+    "net_recv": 881.7361755371094,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:57:37",
+    "cpu": 16.0,
+    "ram": 80.1,
+    "disk": 37.8,
+    "net_sent": 93.88415336608887,
+    "net_recv": 881.7452840805054,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:57:42",
+    "cpu": 24.5,
+    "ram": 79.8,
+    "disk": 37.8,
+    "net_sent": 94.03849983215332,
+    "net_recv": 881.7738599777222,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:57:47",
+    "cpu": 19.8,
+    "ram": 79.7,
+    "disk": 37.8,
+    "net_sent": 94.1565809249878,
+    "net_recv": 881.817066192627,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:57:52",
+    "cpu": 22.6,
+    "ram": 80.0,
+    "disk": 37.8,
+    "net_sent": 94.3074951171875,
+    "net_recv": 881.8343677520752,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:57:57",
+    "cpu": 17.8,
+    "ram": 79.9,
+    "disk": 37.8,
+    "net_sent": 94.38012218475342,
+    "net_recv": 881.8434915542603,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:58:02",
+    "cpu": 29.7,
+    "ram": 80.1,
+    "disk": 37.8,
+    "net_sent": 94.52925968170166,
+    "net_recv": 881.8595361709595,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:58:07",
+    "cpu": 21.4,
+    "ram": 80.1,
+    "disk": 37.8,
+    "net_sent": 94.63743782043457,
+    "net_recv": 881.8804044723511,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:58:12",
+    "cpu": 25.2,
+    "ram": 79.5,
+    "disk": 37.8,
+    "net_sent": 94.80012130737305,
+    "net_recv": 881.8995952606201,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:58:17",
+    "cpu": 18.1,
+    "ram": 79.8,
+    "disk": 37.8,
+    "net_sent": 94.96231746673584,
+    "net_recv": 881.9183721542358,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:58:22",
+    "cpu": 23.1,
+    "ram": 80.0,
+    "disk": 37.8,
+    "net_sent": 95.37272930145264,
+    "net_recv": 881.9280490875244,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:58:27",
+    "cpu": 25.1,
+    "ram": 80.0,
+    "disk": 37.8,
+    "net_sent": 95.54407215118408,
+    "net_recv": 881.9428310394287,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:58:32",
+    "cpu": 16.6,
+    "ram": 79.8,
+    "disk": 37.8,
+    "net_sent": 95.63518238067627,
+    "net_recv": 881.9542627334595,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:58:37",
+    "cpu": 17.4,
+    "ram": 79.8,
+    "disk": 37.8,
+    "net_sent": 95.71169567108154,
+    "net_recv": 881.9647340774536,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:58:42",
+    "cpu": 18.6,
+    "ram": 80.1,
+    "disk": 37.8,
+    "net_sent": 95.80078220367432,
+    "net_recv": 881.9779739379883,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:58:47",
+    "cpu": 25.9,
+    "ram": 80.7,
+    "disk": 37.8,
+    "net_sent": 95.98772048950195,
+    "net_recv": 881.9863414764404,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:58:52",
+    "cpu": 19.8,
+    "ram": 80.6,
+    "disk": 37.8,
+    "net_sent": 96.15278148651123,
+    "net_recv": 881.9922037124634,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:58:57",
+    "cpu": 21.9,
+    "ram": 80.6,
+    "disk": 37.8,
+    "net_sent": 96.31974697113037,
+    "net_recv": 881.999852180481,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:59:02",
+    "cpu": 24.4,
+    "ram": 80.6,
+    "disk": 37.8,
+    "net_sent": 96.41338157653809,
+    "net_recv": 882.0049448013306,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:59:07",
+    "cpu": 27.8,
+    "ram": 81.2,
+    "disk": 37.8,
+    "net_sent": 96.61324405670166,
+    "net_recv": 882.0256605148315,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:59:13",
+    "cpu": 23.0,
+    "ram": 80.6,
+    "disk": 37.8,
+    "net_sent": 96.75442218780518,
+    "net_recv": 882.0458402633667,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:59:18",
+    "cpu": 15.0,
+    "ram": 79.8,
+    "disk": 37.8,
+    "net_sent": 96.88160133361816,
+    "net_recv": 882.0707111358643,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:59:23",
+    "cpu": 32.7,
+    "ram": 80.0,
+    "disk": 37.8,
+    "net_sent": 97.1190357208252,
+    "net_recv": 882.0979719161987,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:59:28",
+    "cpu": 43.8,
+    "ram": 80.5,
+    "disk": 37.8,
+    "net_sent": 97.21076965332031,
+    "net_recv": 882.1069822311401,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:59:33",
+    "cpu": 40.9,
+    "ram": 82.1,
+    "disk": 37.8,
+    "net_sent": 97.43130302429199,
+    "net_recv": 882.1192960739136,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:59:38",
+    "cpu": 46.6,
+    "ram": 84.0,
+    "disk": 37.8,
+    "net_sent": 97.59134006500244,
+    "net_recv": 882.1325969696045,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:59:43",
+    "cpu": 19.3,
+    "ram": 84.6,
+    "disk": 37.8,
+    "net_sent": 97.72542953491211,
+    "net_recv": 882.1507320404053,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:59:48",
+    "cpu": 15.7,
+    "ram": 84.7,
+    "disk": 37.8,
+    "net_sent": 97.86726474761963,
+    "net_recv": 882.1699180603027,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:59:53",
+    "cpu": 24.8,
+    "ram": 84.8,
+    "disk": 37.8,
+    "net_sent": 98.36142539978027,
+    "net_recv": 882.2382316589355,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "07:59:58",
+    "cpu": 22.5,
+    "ram": 84.8,
+    "disk": 37.8,
+    "net_sent": 98.69532775878906,
+    "net_recv": 882.260046005249,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:00:03",
+    "cpu": 27.9,
+    "ram": 85.6,
+    "disk": 37.8,
+    "net_sent": 98.80304431915283,
+    "net_recv": 882.2793045043945,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:00:08",
+    "cpu": 22.0,
+    "ram": 85.8,
+    "disk": 37.8,
+    "net_sent": 98.89399242401123,
+    "net_recv": 882.2940759658813,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:00:13",
+    "cpu": 35.9,
+    "ram": 86.2,
+    "disk": 37.8,
+    "net_sent": 99.07776641845703,
+    "net_recv": 882.3123054504395,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:00:18",
+    "cpu": 29.6,
+    "ram": 86.8,
+    "disk": 37.8,
+    "net_sent": 99.4119987487793,
+    "net_recv": 882.3282747268677,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:00:23",
+    "cpu": 14.6,
+    "ram": 86.9,
+    "disk": 37.8,
+    "net_sent": 99.72824382781982,
+    "net_recv": 882.3459930419922,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:00:28",
+    "cpu": 13.4,
+    "ram": 86.7,
+    "disk": 37.8,
+    "net_sent": 99.80279350280762,
+    "net_recv": 882.3569822311401,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:00:33",
+    "cpu": 15.9,
+    "ram": 86.9,
+    "disk": 37.8,
+    "net_sent": 99.89530563354492,
+    "net_recv": 882.3673830032349,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:00:38",
+    "cpu": 12.4,
+    "ram": 86.9,
+    "disk": 37.8,
+    "net_sent": 99.97280883789062,
+    "net_recv": 882.3769683837891,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:00:43",
+    "cpu": 11.4,
+    "ram": 86.8,
+    "disk": 37.8,
+    "net_sent": 100.03963565826416,
+    "net_recv": 882.3858318328857,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:00:48",
+    "cpu": 11.0,
+    "ram": 86.6,
+    "disk": 37.8,
+    "net_sent": 100.11569118499756,
+    "net_recv": 882.3983812332153,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:00:54",
+    "cpu": 10.3,
+    "ram": 86.7,
+    "disk": 37.8,
+    "net_sent": 100.18836975097656,
+    "net_recv": 882.4083518981934,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:00:59",
+    "cpu": 11.7,
+    "ram": 86.7,
+    "disk": 37.8,
+    "net_sent": 100.26295185089111,
+    "net_recv": 882.4170064926147,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:01:04",
+    "cpu": 11.5,
+    "ram": 86.7,
+    "disk": 37.8,
+    "net_sent": 100.34414100646973,
+    "net_recv": 882.4289770126343,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:01:09",
+    "cpu": 12.9,
+    "ram": 86.8,
+    "disk": 37.8,
+    "net_sent": 100.43454837799072,
+    "net_recv": 882.4422845840454,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:01:14",
+    "cpu": 14.4,
+    "ram": 86.7,
+    "disk": 37.8,
+    "net_sent": 100.5347146987915,
+    "net_recv": 882.4517030715942,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:01:19",
+    "cpu": 14.3,
+    "ram": 86.6,
+    "disk": 37.8,
+    "net_sent": 100.62580108642578,
+    "net_recv": 882.4713888168335,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:01:24",
+    "cpu": 19.9,
+    "ram": 86.4,
+    "disk": 37.8,
+    "net_sent": 100.80613136291504,
+    "net_recv": 882.488130569458,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:01:29",
+    "cpu": 11.9,
+    "ram": 86.4,
+    "disk": 37.8,
+    "net_sent": 100.8845796585083,
+    "net_recv": 882.5097351074219,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:01:34",
+    "cpu": 13.6,
+    "ram": 86.8,
+    "disk": 37.8,
+    "net_sent": 101.04821395874023,
+    "net_recv": 882.530909538269,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:01:39",
+    "cpu": 13.5,
+    "ram": 86.9,
+    "disk": 37.8,
+    "net_sent": 101.12251949310303,
+    "net_recv": 882.5424718856812,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:01:44",
+    "cpu": 18.7,
+    "ram": 87.5,
+    "disk": 37.8,
+    "net_sent": 101.25565910339355,
+    "net_recv": 882.5734720230103,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:01:49",
+    "cpu": 12.6,
+    "ram": 87.6,
+    "disk": 37.8,
+    "net_sent": 101.33412265777588,
+    "net_recv": 882.5881061553955,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:01:54",
+    "cpu": 9.9,
+    "ram": 87.6,
+    "disk": 37.8,
+    "net_sent": 101.41680526733398,
+    "net_recv": 882.6104288101196,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:01:59",
+    "cpu": 16.6,
+    "ram": 86.4,
+    "disk": 37.8,
+    "net_sent": 101.4934492111206,
+    "net_recv": 882.6196880340576,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:02:04",
+    "cpu": 13.6,
+    "ram": 86.3,
+    "disk": 37.8,
+    "net_sent": 101.5765552520752,
+    "net_recv": 882.6421518325806,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:02:09",
+    "cpu": 12.4,
+    "ram": 86.1,
+    "disk": 37.8,
+    "net_sent": 101.64843940734863,
+    "net_recv": 882.6541900634766,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:02:14",
+    "cpu": 11.9,
+    "ram": 86.3,
+    "disk": 37.8,
+    "net_sent": 101.72931861877441,
+    "net_recv": 882.6637964248657,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:02:19",
+    "cpu": 15.8,
+    "ram": 86.3,
+    "disk": 37.8,
+    "net_sent": 101.82144165039062,
+    "net_recv": 882.6736783981323,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:02:24",
+    "cpu": 13.3,
+    "ram": 86.2,
+    "disk": 37.8,
+    "net_sent": 101.96426677703857,
+    "net_recv": 882.6840753555298,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:02:29",
+    "cpu": 10.1,
+    "ram": 86.2,
+    "disk": 37.8,
+    "net_sent": 102.04490661621094,
+    "net_recv": 882.704026222229,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:02:34",
+    "cpu": 11.1,
+    "ram": 85.9,
+    "disk": 37.8,
+    "net_sent": 102.11588859558105,
+    "net_recv": 882.7134017944336,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:02:39",
+    "cpu": 16.5,
+    "ram": 87.0,
+    "disk": 37.8,
+    "net_sent": 102.22476768493652,
+    "net_recv": 882.7247743606567,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:02:44",
+    "cpu": 19.8,
+    "ram": 87.9,
+    "disk": 37.8,
+    "net_sent": 102.34028911590576,
+    "net_recv": 882.7524700164795,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:02:50",
+    "cpu": 25.2,
+    "ram": 87.9,
+    "disk": 37.8,
+    "net_sent": 102.49047374725342,
+    "net_recv": 882.7629404067993,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:02:55",
+    "cpu": 16.4,
+    "ram": 87.9,
+    "disk": 37.8,
+    "net_sent": 102.58234882354736,
+    "net_recv": 882.7902793884277,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:03:00",
+    "cpu": 15.7,
+    "ram": 87.6,
+    "disk": 37.8,
+    "net_sent": 102.65550136566162,
+    "net_recv": 882.7998332977295,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:03:05",
+    "cpu": 12.9,
+    "ram": 87.4,
+    "disk": 37.8,
+    "net_sent": 102.77381134033203,
+    "net_recv": 882.8077659606934,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:03:10",
+    "cpu": 10.9,
+    "ram": 87.2,
+    "disk": 37.8,
+    "net_sent": 102.84514427185059,
+    "net_recv": 882.8180418014526,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:03:15",
+    "cpu": 12.1,
+    "ram": 87.2,
+    "disk": 37.8,
+    "net_sent": 102.92375087738037,
+    "net_recv": 882.8341493606567,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:03:20",
+    "cpu": 14.3,
+    "ram": 87.1,
+    "disk": 37.8,
+    "net_sent": 103.0054578781128,
+    "net_recv": 882.8552131652832,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:03:25",
+    "cpu": 10.9,
+    "ram": 87.1,
+    "disk": 37.8,
+    "net_sent": 103.08248233795166,
+    "net_recv": 882.8671998977661,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:03:30",
+    "cpu": 15.4,
+    "ram": 87.2,
+    "disk": 37.8,
+    "net_sent": 103.15749263763428,
+    "net_recv": 882.880560874939,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:03:35",
+    "cpu": 11.0,
+    "ram": 87.2,
+    "disk": 37.8,
+    "net_sent": 103.22953224182129,
+    "net_recv": 882.8942537307739,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:03:40",
+    "cpu": 14.2,
+    "ram": 87.3,
+    "disk": 37.8,
+    "net_sent": 103.30210876464844,
+    "net_recv": 882.9010076522827,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:03:45",
+    "cpu": 15.0,
+    "ram": 87.7,
+    "disk": 37.8,
+    "net_sent": 103.38769149780273,
+    "net_recv": 882.9081020355225,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:03:50",
+    "cpu": 11.7,
+    "ram": 87.6,
+    "disk": 37.8,
+    "net_sent": 103.4604139328003,
+    "net_recv": 882.9167575836182,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:03:55",
+    "cpu": 11.9,
+    "ram": 87.4,
+    "disk": 37.8,
+    "net_sent": 103.53509712219238,
+    "net_recv": 882.9280815124512,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:04:00",
+    "cpu": 12.2,
+    "ram": 87.4,
+    "disk": 37.8,
+    "net_sent": 103.60854816436768,
+    "net_recv": 882.9378280639648,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:04:05",
+    "cpu": 14.4,
+    "ram": 87.4,
+    "disk": 37.8,
+    "net_sent": 103.68834209442139,
+    "net_recv": 882.9573488235474,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:04:10",
+    "cpu": 12.1,
+    "ram": 87.4,
+    "disk": 37.8,
+    "net_sent": 103.76360607147217,
+    "net_recv": 882.9689817428589,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:04:15",
+    "cpu": 13.7,
+    "ram": 86.4,
+    "disk": 37.8,
+    "net_sent": 103.83644008636475,
+    "net_recv": 882.9816122055054,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:04:20",
+    "cpu": 13.7,
+    "ram": 85.7,
+    "disk": 37.8,
+    "net_sent": 103.9083194732666,
+    "net_recv": 882.9912710189819,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:04:25",
+    "cpu": 12.4,
+    "ram": 85.7,
+    "disk": 37.8,
+    "net_sent": 103.98332023620605,
+    "net_recv": 882.9999523162842,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:04:30",
+    "cpu": 13.2,
+    "ram": 85.7,
+    "disk": 37.8,
+    "net_sent": 104.05558395385742,
+    "net_recv": 883.0080871582031,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:04:36",
+    "cpu": 12.6,
+    "ram": 85.7,
+    "disk": 37.8,
+    "net_sent": 104.12781429290771,
+    "net_recv": 883.0196380615234,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:04:41",
+    "cpu": 14.2,
+    "ram": 86.0,
+    "disk": 37.8,
+    "net_sent": 104.21657466888428,
+    "net_recv": 883.0282897949219,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:04:46",
+    "cpu": 14.6,
+    "ram": 86.0,
+    "disk": 37.8,
+    "net_sent": 104.3183536529541,
+    "net_recv": 883.0382280349731,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:04:51",
+    "cpu": 12.2,
+    "ram": 86.0,
+    "disk": 37.8,
+    "net_sent": 104.4084119796753,
+    "net_recv": 883.0652103424072,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:04:56",
+    "cpu": 26.5,
+    "ram": 86.1,
+    "disk": 37.8,
+    "net_sent": 104.52545166015625,
+    "net_recv": 883.144401550293,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:05:01",
+    "cpu": 12.1,
+    "ram": 86.1,
+    "disk": 37.8,
+    "net_sent": 104.60225772857666,
+    "net_recv": 883.1522245407104,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:05:06",
+    "cpu": 21.4,
+    "ram": 86.1,
+    "disk": 37.8,
+    "net_sent": 104.7387466430664,
+    "net_recv": 883.1757259368896,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:05:11",
+    "cpu": 19.3,
+    "ram": 86.0,
+    "disk": 37.8,
+    "net_sent": 104.8679428100586,
+    "net_recv": 883.1942901611328,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:05:16",
+    "cpu": 16.2,
+    "ram": 85.8,
+    "disk": 37.8,
+    "net_sent": 104.9475736618042,
+    "net_recv": 883.2030200958252,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:05:21",
+    "cpu": 18.3,
+    "ram": 86.0,
+    "disk": 37.8,
+    "net_sent": 105.05151462554932,
+    "net_recv": 883.2510719299316,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:05:26",
+    "cpu": 12.9,
+    "ram": 85.9,
+    "disk": 37.8,
+    "net_sent": 105.13412570953369,
+    "net_recv": 883.2800350189209,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:05:31",
+    "cpu": 17.3,
+    "ram": 86.0,
+    "disk": 37.8,
+    "net_sent": 105.21687602996826,
+    "net_recv": 883.3012027740479,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:05:36",
+    "cpu": 12.9,
+    "ram": 86.1,
+    "disk": 37.8,
+    "net_sent": 105.35577011108398,
+    "net_recv": 883.3142442703247,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:05:41",
+    "cpu": 12.9,
+    "ram": 86.4,
+    "disk": 37.8,
+    "net_sent": 105.58481025695801,
+    "net_recv": 883.3854207992554,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:05:46",
+    "cpu": 11.1,
+    "ram": 86.4,
+    "disk": 37.8,
+    "net_sent": 105.88832950592041,
+    "net_recv": 883.39222240448,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:05:51",
+    "cpu": 11.1,
+    "ram": 86.4,
+    "disk": 37.8,
+    "net_sent": 105.97412109375,
+    "net_recv": 883.398829460144,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:05:56",
+    "cpu": 26.2,
+    "ram": 86.9,
+    "disk": 37.8,
+    "net_sent": 106.19057655334473,
+    "net_recv": 883.4269771575928,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:06:01",
+    "cpu": 17.3,
+    "ram": 86.9,
+    "disk": 37.8,
+    "net_sent": 106.32950019836426,
+    "net_recv": 883.4359035491943,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:06:06",
+    "cpu": 18.5,
+    "ram": 87.0,
+    "disk": 37.8,
+    "net_sent": 106.45640277862549,
+    "net_recv": 883.4527320861816,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:06:11",
+    "cpu": 19.3,
+    "ram": 86.7,
+    "disk": 37.8,
+    "net_sent": 106.63190364837646,
+    "net_recv": 883.4658432006836,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:06:16",
+    "cpu": 27.7,
+    "ram": 87.1,
+    "disk": 37.8,
+    "net_sent": 106.89686012268066,
+    "net_recv": 883.4760398864746,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:06:21",
+    "cpu": 13.2,
+    "ram": 86.4,
+    "disk": 37.8,
+    "net_sent": 106.9675407409668,
+    "net_recv": 883.4876222610474,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:06:27",
+    "cpu": 21.1,
+    "ram": 86.4,
+    "disk": 37.8,
+    "net_sent": 107.08592700958252,
+    "net_recv": 883.4999418258667,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:06:32",
+    "cpu": 21.8,
+    "ram": 86.7,
+    "disk": 37.8,
+    "net_sent": 107.19792175292969,
+    "net_recv": 883.5206451416016,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:06:37",
+    "cpu": 16.1,
+    "ram": 87.7,
+    "disk": 37.8,
+    "net_sent": 107.2914514541626,
+    "net_recv": 883.541482925415,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:06:42",
+    "cpu": 14.2,
+    "ram": 87.9,
+    "disk": 37.8,
+    "net_sent": 107.49279975891113,
+    "net_recv": 883.5509443283081,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:06:47",
+    "cpu": 19.5,
+    "ram": 87.9,
+    "disk": 37.8,
+    "net_sent": 107.68743133544922,
+    "net_recv": 883.5641984939575,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:06:52",
+    "cpu": 14.2,
+    "ram": 87.9,
+    "disk": 37.8,
+    "net_sent": 107.77960681915283,
+    "net_recv": 883.5876092910767,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:06:57",
+    "cpu": 14.9,
+    "ram": 87.8,
+    "disk": 37.8,
+    "net_sent": 107.87644004821777,
+    "net_recv": 883.6053676605225,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:07:02",
+    "cpu": 14.7,
+    "ram": 88.0,
+    "disk": 37.8,
+    "net_sent": 107.98816585540771,
+    "net_recv": 883.6203012466431,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:07:07",
+    "cpu": 10.1,
+    "ram": 88.0,
+    "disk": 37.8,
+    "net_sent": 108.05983448028564,
+    "net_recv": 883.6285543441772,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:07:12",
+    "cpu": 12.2,
+    "ram": 87.7,
+    "disk": 37.8,
+    "net_sent": 108.13425350189209,
+    "net_recv": 883.642092704773,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:07:17",
+    "cpu": 10.5,
+    "ram": 87.7,
+    "disk": 37.8,
+    "net_sent": 108.21500492095947,
+    "net_recv": 883.6516981124878,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:07:22",
+    "cpu": 13.0,
+    "ram": 87.7,
+    "disk": 37.8,
+    "net_sent": 108.32250308990479,
+    "net_recv": 883.6740398406982,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:07:27",
+    "cpu": 11.6,
+    "ram": 87.9,
+    "disk": 37.8,
+    "net_sent": 108.40636825561523,
+    "net_recv": 883.6908798217773,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:07:32",
+    "cpu": 12.8,
+    "ram": 87.9,
+    "disk": 37.8,
+    "net_sent": 108.48950386047363,
+    "net_recv": 883.7081079483032,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:07:37",
+    "cpu": 12.5,
+    "ram": 87.2,
+    "disk": 37.8,
+    "net_sent": 108.56733989715576,
+    "net_recv": 883.7227096557617,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:07:42",
+    "cpu": 12.4,
+    "ram": 87.3,
+    "disk": 37.8,
+    "net_sent": 108.663254737854,
+    "net_recv": 883.7475547790527,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:07:47",
+    "cpu": 18.9,
+    "ram": 87.6,
+    "disk": 37.8,
+    "net_sent": 108.73685264587402,
+    "net_recv": 883.7520713806152,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:07:52",
+    "cpu": 40.6,
+    "ram": 87.9,
+    "disk": 37.8,
+    "net_sent": 108.8662223815918,
+    "net_recv": 883.7710828781128,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:07:58",
+    "cpu": 31.6,
+    "ram": 87.9,
+    "disk": 37.8,
+    "net_sent": 109.0633773803711,
+    "net_recv": 883.8042125701904,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:08:03",
+    "cpu": 18.2,
+    "ram": 88.1,
+    "disk": 37.8,
+    "net_sent": 109.17661666870117,
+    "net_recv": 883.8255300521851,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:08:08",
+    "cpu": 14.0,
+    "ram": 87.9,
+    "disk": 37.8,
+    "net_sent": 109.25555038452148,
+    "net_recv": 883.8450288772583,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:08:13",
+    "cpu": 16.4,
+    "ram": 87.8,
+    "disk": 37.8,
+    "net_sent": 109.37837886810303,
+    "net_recv": 883.8562870025635,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:08:18",
+    "cpu": 19.4,
+    "ram": 87.9,
+    "disk": 37.8,
+    "net_sent": 109.55491638183594,
+    "net_recv": 883.8745279312134,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:08:23",
+    "cpu": 18.8,
+    "ram": 87.9,
+    "disk": 37.8,
+    "net_sent": 109.66425132751465,
+    "net_recv": 883.889856338501,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:08:28",
+    "cpu": 11.0,
+    "ram": 87.8,
+    "disk": 37.8,
+    "net_sent": 109.7377758026123,
+    "net_recv": 883.9007787704468,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:08:33",
+    "cpu": 10.8,
+    "ram": 87.7,
+    "disk": 37.8,
+    "net_sent": 109.81247329711914,
+    "net_recv": 883.9112205505371,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:08:38",
+    "cpu": 11.0,
+    "ram": 87.3,
+    "disk": 37.8,
+    "net_sent": 109.88551235198975,
+    "net_recv": 883.9229192733765,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:08:43",
+    "cpu": 11.2,
+    "ram": 87.7,
+    "disk": 37.8,
+    "net_sent": 109.97237777709961,
+    "net_recv": 883.942964553833,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:08:48",
+    "cpu": 13.7,
+    "ram": 87.6,
+    "disk": 37.8,
+    "net_sent": 110.04541873931885,
+    "net_recv": 883.9536752700806,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:08:53",
+    "cpu": 11.9,
+    "ram": 87.7,
+    "disk": 37.8,
+    "net_sent": 110.1191291809082,
+    "net_recv": 883.9645013809204,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:08:58",
+    "cpu": 11.5,
+    "ram": 87.6,
+    "disk": 37.8,
+    "net_sent": 110.19224643707275,
+    "net_recv": 883.9728116989136,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:09:03",
+    "cpu": 10.9,
+    "ram": 87.6,
+    "disk": 37.8,
+    "net_sent": 110.26478385925293,
+    "net_recv": 883.9840250015259,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:09:08",
+    "cpu": 11.2,
+    "ram": 87.6,
+    "disk": 37.8,
+    "net_sent": 110.33749389648438,
+    "net_recv": 883.992844581604,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:09:13",
+    "cpu": 11.0,
+    "ram": 87.4,
+    "disk": 37.8,
+    "net_sent": 110.41299343109131,
+    "net_recv": 884.006908416748,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:09:18",
+    "cpu": 13.7,
+    "ram": 86.1,
+    "disk": 37.8,
+    "net_sent": 110.48766899108887,
+    "net_recv": 884.0224094390869,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:09:23",
+    "cpu": 11.9,
+    "ram": 86.1,
+    "disk": 37.8,
+    "net_sent": 110.57127285003662,
+    "net_recv": 884.0428447723389,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:09:28",
+    "cpu": 12.1,
+    "ram": 86.1,
+    "disk": 37.8,
+    "net_sent": 110.64210033416748,
+    "net_recv": 884.056902885437,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:09:33",
+    "cpu": 19.1,
+    "ram": 86.5,
+    "disk": 37.8,
+    "net_sent": 110.85661697387695,
+    "net_recv": 884.0660066604614,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:09:38",
+    "cpu": 13.9,
+    "ram": 86.5,
+    "disk": 37.8,
+    "net_sent": 110.92770862579346,
+    "net_recv": 884.0738077163696,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:09:43",
+    "cpu": 17.7,
+    "ram": 86.7,
+    "disk": 37.8,
+    "net_sent": 111.00920104980469,
+    "net_recv": 884.0915880203247,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:09:49",
+    "cpu": 24.3,
+    "ram": 86.7,
+    "disk": 37.8,
+    "net_sent": 111.13205814361572,
+    "net_recv": 884.106692314148,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:09:54",
+    "cpu": 20.5,
+    "ram": 87.0,
+    "disk": 37.8,
+    "net_sent": 111.37015151977539,
+    "net_recv": 884.179027557373,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:09:59",
+    "cpu": 15.4,
+    "ram": 86.9,
+    "disk": 37.8,
+    "net_sent": 111.61723709106445,
+    "net_recv": 884.1967706680298,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:10:04",
+    "cpu": 16.3,
+    "ram": 87.0,
+    "disk": 37.8,
+    "net_sent": 111.77879810333252,
+    "net_recv": 884.2208995819092,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:10:09",
+    "cpu": 12.6,
+    "ram": 86.9,
+    "disk": 37.8,
+    "net_sent": 111.85667896270752,
+    "net_recv": 884.2395868301392,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:10:14",
+    "cpu": 12.4,
+    "ram": 86.4,
+    "disk": 37.8,
+    "net_sent": 111.98884773254395,
+    "net_recv": 884.2510776519775,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:10:19",
+    "cpu": 10.9,
+    "ram": 86.1,
+    "disk": 37.8,
+    "net_sent": 112.06701946258545,
+    "net_recv": 884.2610301971436,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:10:24",
+    "cpu": 11.4,
+    "ram": 86.2,
+    "disk": 37.8,
+    "net_sent": 112.14163398742676,
+    "net_recv": 884.2702684402466,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:10:29",
+    "cpu": 12.4,
+    "ram": 86.1,
+    "disk": 37.8,
+    "net_sent": 112.21815586090088,
+    "net_recv": 884.2825832366943,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:10:34",
+    "cpu": 17.2,
+    "ram": 86.5,
+    "disk": 37.8,
+    "net_sent": 112.35677528381348,
+    "net_recv": 884.2946853637695,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:10:39",
+    "cpu": 13.0,
+    "ram": 86.7,
+    "disk": 37.8,
+    "net_sent": 112.44647407531738,
+    "net_recv": 884.3072557449341,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:10:44",
+    "cpu": 13.4,
+    "ram": 86.9,
+    "disk": 37.8,
+    "net_sent": 112.5199031829834,
+    "net_recv": 884.3212089538574,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:10:49",
+    "cpu": 14.5,
+    "ram": 87.2,
+    "disk": 37.8,
+    "net_sent": 112.69508171081543,
+    "net_recv": 884.3383588790894,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:10:54",
+    "cpu": 14.2,
+    "ram": 87.3,
+    "disk": 37.8,
+    "net_sent": 112.88081169128418,
+    "net_recv": 884.3624153137207,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:10:59",
+    "cpu": 10.3,
+    "ram": 87.2,
+    "disk": 37.8,
+    "net_sent": 112.94836807250977,
+    "net_recv": 884.3745679855347,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:11:04",
+    "cpu": 17.3,
+    "ram": 87.2,
+    "disk": 37.8,
+    "net_sent": 113.16452884674072,
+    "net_recv": 884.3829288482666,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:11:09",
+    "cpu": 12.8,
+    "ram": 87.3,
+    "disk": 37.8,
+    "net_sent": 113.2597599029541,
+    "net_recv": 884.3929347991943,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:11:14",
+    "cpu": 13.6,
+    "ram": 87.4,
+    "disk": 37.8,
+    "net_sent": 113.33579540252686,
+    "net_recv": 884.4044742584229,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:11:19",
+    "cpu": 12.9,
+    "ram": 87.2,
+    "disk": 37.8,
+    "net_sent": 113.4114408493042,
+    "net_recv": 884.424599647522,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:11:24",
+    "cpu": 13.4,
+    "ram": 87.1,
+    "disk": 37.8,
+    "net_sent": 113.59263706207275,
+    "net_recv": 884.4440879821777,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:11:29",
+    "cpu": 12.4,
+    "ram": 87.2,
+    "disk": 37.8,
+    "net_sent": 113.69348239898682,
+    "net_recv": 884.4523639678955,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:11:35",
+    "cpu": 16.2,
+    "ram": 88.0,
+    "disk": 37.8,
+    "net_sent": 113.79840564727783,
+    "net_recv": 884.4707126617432,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:11:40",
+    "cpu": 20.8,
+    "ram": 88.3,
+    "disk": 37.8,
+    "net_sent": 113.98024940490723,
+    "net_recv": 884.4849863052368,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:11:45",
+    "cpu": 12.1,
+    "ram": 83.7,
+    "disk": 37.8,
+    "net_sent": 114.06674861907959,
+    "net_recv": 884.4946422576904,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:11:50",
+    "cpu": 10.3,
+    "ram": 83.7,
+    "disk": 37.8,
+    "net_sent": 114.13758182525635,
+    "net_recv": 884.5025634765625,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:11:55",
+    "cpu": 10.8,
+    "ram": 83.4,
+    "disk": 37.8,
+    "net_sent": 114.20599365234375,
+    "net_recv": 884.514365196228,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:12:00",
+    "cpu": 12.1,
+    "ram": 83.5,
+    "disk": 37.8,
+    "net_sent": 114.29663944244385,
+    "net_recv": 884.5235710144043,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:12:05",
+    "cpu": 13.0,
+    "ram": 83.7,
+    "disk": 37.8,
+    "net_sent": 114.4217758178711,
+    "net_recv": 884.5309562683105,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:12:10",
+    "cpu": 14.5,
+    "ram": 83.7,
+    "disk": 37.8,
+    "net_sent": 114.58608627319336,
+    "net_recv": 884.5442428588867,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:12:15",
+    "cpu": 20.3,
+    "ram": 83.6,
+    "disk": 37.8,
+    "net_sent": 114.74936199188232,
+    "net_recv": 884.5590438842773,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:12:20",
+    "cpu": 44.4,
+    "ram": 87.3,
+    "disk": 37.8,
+    "net_sent": 115.03919506072998,
+    "net_recv": 886.2680053710938,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:12:25",
+    "cpu": 39.9,
+    "ram": 87.5,
+    "disk": 37.8,
+    "net_sent": 115.18486022949219,
+    "net_recv": 886.3247604370117,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:12:30",
+    "cpu": 29.2,
+    "ram": 87.8,
+    "disk": 37.9,
+    "net_sent": 115.37277889251709,
+    "net_recv": 892.3133707046509,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:12:35",
+    "cpu": 23.9,
+    "ram": 87.0,
+    "disk": 37.9,
+    "net_sent": 116.05717849731445,
+    "net_recv": 921.5763235092163,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:12:40",
+    "cpu": 15.2,
+    "ram": 87.1,
+    "disk": 37.9,
+    "net_sent": 116.40964221954346,
+    "net_recv": 940.0330743789673,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:12:45",
+    "cpu": 24.9,
+    "ram": 87.5,
+    "disk": 37.9,
+    "net_sent": 116.73854541778564,
+    "net_recv": 965.8924617767334,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:12:50",
+    "cpu": 21.4,
+    "ram": 87.5,
+    "disk": 37.9,
+    "net_sent": 117.1417293548584,
+    "net_recv": 990.4211120605469,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:12:55",
+    "cpu": 16.4,
+    "ram": 87.2,
+    "disk": 37.9,
+    "net_sent": 117.5331506729126,
+    "net_recv": 1013.0435981750488,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:13:00",
+    "cpu": 13.8,
+    "ram": 85.6,
+    "disk": 37.9,
+    "net_sent": 117.81387042999268,
+    "net_recv": 1039.339656829834,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:13:05",
+    "cpu": 16.0,
+    "ram": 85.5,
+    "disk": 37.9,
+    "net_sent": 118.13531017303467,
+    "net_recv": 1064.8308849334717,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:13:11",
+    "cpu": 19.4,
+    "ram": 85.2,
+    "disk": 37.9,
+    "net_sent": 118.21122074127197,
+    "net_recv": 1064.842209815979,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:13:16",
+    "cpu": 27.2,
+    "ram": 86.3,
+    "disk": 37.9,
+    "net_sent": 118.48503303527832,
+    "net_recv": 1064.855037689209,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:13:21",
+    "cpu": 30.8,
+    "ram": 86.4,
+    "disk": 37.9,
+    "net_sent": 118.57670021057129,
+    "net_recv": 1064.8827123641968,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:13:26",
+    "cpu": 28.3,
+    "ram": 86.3,
+    "disk": 37.9,
+    "net_sent": 118.77539730072021,
+    "net_recv": 1064.8946046829224,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:13:31",
+    "cpu": 21.8,
+    "ram": 86.3,
+    "disk": 37.9,
+    "net_sent": 118.93199634552002,
+    "net_recv": 1064.9097652435303,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:13:36",
+    "cpu": 14.5,
+    "ram": 85.9,
+    "disk": 37.9,
+    "net_sent": 119.01153182983398,
+    "net_recv": 1064.9233465194702,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:13:41",
+    "cpu": 36.0,
+    "ram": 86.5,
+    "disk": 37.9,
+    "net_sent": 119.18297290802002,
+    "net_recv": 1064.9514636993408,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:13:46",
+    "cpu": 27.2,
+    "ram": 86.6,
+    "disk": 37.9,
+    "net_sent": 119.3866548538208,
+    "net_recv": 1064.9606914520264,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:13:51",
+    "cpu": 21.8,
+    "ram": 86.6,
+    "disk": 37.9,
+    "net_sent": 119.64667987823486,
+    "net_recv": 1064.9779510498047,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:13:56",
+    "cpu": 16.9,
+    "ram": 86.4,
+    "disk": 37.9,
+    "net_sent": 119.73560428619385,
+    "net_recv": 1064.9895629882812,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:14:01",
+    "cpu": 20.3,
+    "ram": 86.5,
+    "disk": 37.9,
+    "net_sent": 119.99457359313965,
+    "net_recv": 1065.0055751800537,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:14:06",
+    "cpu": 18.0,
+    "ram": 86.2,
+    "disk": 37.9,
+    "net_sent": 120.10136795043945,
+    "net_recv": 1065.0145263671875,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:14:11",
+    "cpu": 12.3,
+    "ram": 86.3,
+    "disk": 37.9,
+    "net_sent": 120.19473171234131,
+    "net_recv": 1065.0394105911255,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:14:16",
+    "cpu": 25.9,
+    "ram": 86.4,
+    "disk": 37.9,
+    "net_sent": 120.44174575805664,
+    "net_recv": 1065.0536222457886,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:14:21",
+    "cpu": 44.0,
+    "ram": 85.2,
+    "disk": 37.9,
+    "net_sent": 120.73763370513916,
+    "net_recv": 1065.074824333191,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:14:26",
+    "cpu": 11.2,
+    "ram": 85.2,
+    "disk": 37.9,
+    "net_sent": 120.80599117279053,
+    "net_recv": 1065.087565422058,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:14:31",
+    "cpu": 11.7,
+    "ram": 85.0,
+    "disk": 37.9,
+    "net_sent": 120.87939262390137,
+    "net_recv": 1065.0983743667603,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:14:36",
+    "cpu": 13.2,
+    "ram": 84.7,
+    "disk": 37.9,
+    "net_sent": 120.9620132446289,
+    "net_recv": 1065.1053476333618,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:14:42",
+    "cpu": 11.6,
+    "ram": 84.7,
+    "disk": 37.9,
+    "net_sent": 121.0422945022583,
+    "net_recv": 1065.1293296813965,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:14:47",
+    "cpu": 11.1,
+    "ram": 84.7,
+    "disk": 37.9,
+    "net_sent": 121.11461925506592,
+    "net_recv": 1065.1401996612549,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:14:52",
+    "cpu": 10.7,
+    "ram": 84.9,
+    "disk": 37.9,
+    "net_sent": 121.1920690536499,
+    "net_recv": 1065.2083234786987,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:14:57",
+    "cpu": 12.2,
+    "ram": 84.9,
+    "disk": 37.9,
+    "net_sent": 121.27418994903564,
+    "net_recv": 1065.2174711227417,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:15:02",
+    "cpu": 13.9,
+    "ram": 85.3,
+    "disk": 37.9,
+    "net_sent": 121.44811630249023,
+    "net_recv": 1065.2347602844238,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:15:07",
+    "cpu": 12.9,
+    "ram": 85.3,
+    "disk": 37.9,
+    "net_sent": 121.77309703826904,
+    "net_recv": 1065.2438068389893,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:15:12",
+    "cpu": 13.5,
+    "ram": 85.1,
+    "disk": 37.9,
+    "net_sent": 121.88011169433594,
+    "net_recv": 1065.282935142517,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:15:17",
+    "cpu": 24.6,
+    "ram": 85.3,
+    "disk": 37.9,
+    "net_sent": 122.10852813720703,
+    "net_recv": 1065.3256883621216,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:15:22",
+    "cpu": 25.6,
+    "ram": 85.4,
+    "disk": 37.9,
+    "net_sent": 122.29059219360352,
+    "net_recv": 1065.394284248352,
+    "notepad_running": 0
+  },
+  {
+    "timestamp": "08:15:27",
+    "cpu": 16.9,
+    "ram": 85.5,
+    "disk": 37.9,
+    "net_sent": 122.42319011688232,
+    "net_recv": 1065.4450979232788,
+    "notepad_running": 0
+  }
+]

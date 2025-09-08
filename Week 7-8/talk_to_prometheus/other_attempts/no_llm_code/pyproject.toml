@@ -1,0 +1,22 @@
+[project]
+name = "talk-to-prometheus"
+version = "0.1.0"
+description = "A teaching-focused Prometheus natural language analyzer (skeleton)."
+authors = [
+  { name="You", email="you@example.com" }
+]
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=1.5",
+    "pydantic==1.10.11",
+    "python-dotenv>=1.0",
+    "requests>=2.28",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "black"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

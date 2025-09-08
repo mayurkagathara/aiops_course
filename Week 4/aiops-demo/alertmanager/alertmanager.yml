@@ -1,0 +1,7 @@
+route:
+  receiver: "default-receiver"
+
+receivers:
+  - name: "default-receiver"
+    webhook_configs:
+      - url: "http://host.docker.internal:8080/alert"

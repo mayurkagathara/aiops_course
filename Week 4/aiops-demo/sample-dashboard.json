@@ -1,0 +1,47 @@
+{
+  "id": null,
+  "title": "AIOps Demo Dashboard",
+  "tags": ["aiops", "otel"],
+  "timezone": "browser",
+  "schemaVersion": 39,
+  "version": 1,
+  "refresh": "5s",
+  "panels": [
+    {
+      "type": "timeseries",
+      "title": "Demo Requests Counter",
+      "targets": [
+        {
+          "expr": "demo_requests",
+          "legendFormat": "Requests",
+          "refId": "A"
+        }
+      ],
+      "gridPos": { "h": 8, "w": 24, "x": 0, "y": 0 }
+    },
+    {
+      "type": "stat",
+      "title": "Latest Request Count",
+      "targets": [
+        {
+          "expr": "demo_requests",
+          "legendFormat": "Last Value",
+          "refId": "B"
+        }
+      ],
+      "gridPos": { "h": 4, "w": 12, "x": 0, "y": 8 }
+    },
+    {
+      "type": "gauge",
+      "title": "Request Rate (last 1m)",
+      "targets": [
+        {
+          "expr": "rate(demo_requests[1m])",
+          "legendFormat": "req/s",
+          "refId": "C"
+        }
+      ],
+      "gridPos": { "h": 4, "w": 12, "x": 12, "y": 8 }
+    }
+  ]
+}

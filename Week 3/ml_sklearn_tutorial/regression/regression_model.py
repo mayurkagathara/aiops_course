@@ -26,3 +26,12 @@ for name, model in models.items():
 
     print("Test R²:", r2_score(y_test, y_pred))
     print("RMSE:", np.sqrt(mean_squared_error(y_test, y_pred)))
+
+
+from lazypredict.Supervised import LazyRegressor
+reg = LazyRegressor(verbose=0,
+                    ignore_warnings=False,
+                    custom_metric=None)
+
+models, predictions = reg.fit(X_train, X_test, y_train, y_test)
+print(models)

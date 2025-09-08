@@ -1,0 +1,54 @@
+{
+  "index_patterns": [
+    "logs-*"
+  ],
+  "template": {
+    "mappings": {
+      "dynamic": "strict",
+      "properties": {
+        "@timestamp": {
+          "type": "date"
+        },
+        "log": {
+          "properties": {
+            "file": {
+              "properties": {
+                "path": {
+                  "type": "keyword"
+                }
+              }
+            }
+          }
+        },
+        "log_level": {
+          "type": "keyword"
+        },
+        "application_name": {
+          "type": "keyword"
+        },
+        "customer": {
+          "type": "keyword"
+        },
+        "customer_name": {
+          "type": "text"
+        },
+        "environment_name": {
+          "type": "keyword"
+        },
+        "log_type": {
+          "type": "keyword"
+        },
+        "message": {
+          "type": "text"
+        }
+      }
+    },
+    "settings": {
+      "number_of_shards": 1,
+      "number_of_replicas": 0
+    }
+  },
+  "_meta": {
+    "description": "Template for demo app logs with explicit field types"
+  }
+}

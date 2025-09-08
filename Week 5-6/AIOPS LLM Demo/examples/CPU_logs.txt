@@ -1,0 +1,6 @@
+2025-07-04 13:00:01 INFO Application started successfully.
+2025-07-04 13:00:15 WARN CPU usage for process 'data_processor' is at 75%.
+2025-07-04 13:00:30 WARN CPU usage for process 'data_processor' is at 88%.
+2025-07-04 13:00:45 ERROR High CPU alert: 'data_processor' exceeding 95% for 30 seconds. Performance degraded.
+2025-07-04 13:00:50 INFO Initiating service restart for 'data_processor' to mitigate CPU load.
+2025-07-04 13:00:55 INFO Service 'data_processor' restarted. CPU usage normalizing.

@@ -1,0 +1,114 @@
+[
+    {
+        "identifier": "alert1",
+        "host": "host1",
+        "message": "CPU usage warning",
+        "_metadata": {
+            "received_at": "2025-08-11T10:18:05.734271",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "identifier": "Storm_1",
+        "host": "host_1",
+        "message": "Storm_alert_for_testing",
+        "_metadata": {
+            "received_at": "2025-08-11T10:19:16.283518",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "identifier": "Storm_2",
+        "host": "host_2",
+        "message": "Storm_alert_for_testing",
+        "_metadata": {
+            "received_at": "2025-08-11T10:19:25.654083",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "identifier": "Storm_3",
+        "host": "host_3",
+        "message": "Storm_alert_for_testing",
+        "_metadata": {
+            "received_at": "2025-08-11T10:19:31.212640",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "identifier": "Storm_4",
+        "host": "host_4",
+        "message": "Storm_alert_for_testing",
+        "_metadata": {
+            "received_at": "2025-08-11T10:19:36.241257",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "identifier": "Storm_5",
+        "host": "host_5",
+        "message": "Storm_alert_for_testing",
+        "_metadata": {
+            "received_at": "2025-08-11T10:19:41.109346",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "identifier": "host_suppression_1",
+        "host": "host_suppression",
+        "message": "host_suppression_alerts_for_testing",
+        "_metadata": {
+            "received_at": "2025-08-11T10:20:40.386850",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "identifier": "host_suppression_2",
+        "host": "host_suppression",
+        "message": "host_suppression_alerts_for_testing",
+        "_metadata": {
+            "received_at": "2025-08-11T10:20:44.484389",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "identifier": "host_suppression_3",
+        "host": "host_suppression",
+        "message": "host_suppression_alerts_for_testing",
+        "_metadata": {
+            "received_at": "2025-08-11T10:20:47.853544",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "identifier": "host_suppression_8",
+        "host": "host_suppression",
+        "message": "host_suppression_alerts_for_testing",
+        "_metadata": {
+            "received_at": "2025-08-11T10:22:27.610427",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_101",
+        "source": "rest",
+        "message": "CPU is at moederate range",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T01:57:58.266712",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-3",
+        "identifier": "id_102",
+        "source": "rest",
+        "message": "CPU is at moederate range...",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T02:01:24.366779",
+            "source_ip": "127.0.0.1"
+        }
+    }
+]

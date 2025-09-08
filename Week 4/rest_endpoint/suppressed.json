@@ -1,0 +1,192 @@
+[
+    {
+        "identifier": "host_suppression_4",
+        "host": "host_suppression",
+        "message": "host_suppression_alerts_for_testing",
+        "_metadata": {
+            "received_at": "2025-08-11T10:20:51.040074",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "identifier": "host_suppression_5",
+        "host": "host_suppression",
+        "message": "host_suppression_alerts_for_testing",
+        "_metadata": {
+            "received_at": "2025-08-11T10:20:54.442248",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "identifier": "host_suppression_6",
+        "host": "host_suppression",
+        "message": "host_suppression_alerts_for_testing",
+        "_metadata": {
+            "received_at": "2025-08-11T10:20:58.961230",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "identifier": "host_suppression_7",
+        "host": "host_suppression",
+        "message": "host_suppression_alerts_for_testing",
+        "_metadata": {
+            "received_at": "2025-08-11T10:21:03.161919",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_101",
+        "source": "rest",
+        "message": "CPU is at moederate range",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T01:57:58.916738",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_101",
+        "source": "rest",
+        "message": "CPU is at moederate range",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T01:57:59.653328",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_101",
+        "source": "rest",
+        "message": "CPU is at moederate range",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T01:58:00.390165",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_101",
+        "source": "rest",
+        "message": "CPU is at moederate range",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T01:58:01.081651",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_101",
+        "source": "rest",
+        "message": "CPU is at moederate range",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T01:58:01.955528",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_101",
+        "source": "rest",
+        "message": "CPU is at moederate range",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T01:58:16.705415",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_101",
+        "source": "rest",
+        "message": "CPU is at moederate range",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T01:58:17.598451",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_101",
+        "source": "rest",
+        "message": "CPU is at moederate range",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T01:58:18.460174",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_101",
+        "source": "rest",
+        "message": "CPU is at moederate range",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T01:58:19.192539",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_101",
+        "source": "rest",
+        "message": "CPU is at moederate range",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T01:58:20.112733",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_101",
+        "source": "rest",
+        "message": "CPU is at moederate range",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T01:58:21.136481",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_101",
+        "source": "rest",
+        "message": "CPU is at moederate range",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T01:58:21.825887",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_102",
+        "source": "rest",
+        "message": "CPU is at moederate range...",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T02:00:53.936753",
+            "source_ip": "127.0.0.1"
+        }
+    },
+    {
+        "host": "web-server-1",
+        "identifier": "id_102",
+        "source": "rest",
+        "message": "CPU is at moederate range...",
+        "severity": "warning",
+        "_metadata": {
+            "received_at": "2025-08-19T02:01:12.513313",
+            "source_ip": "127.0.0.1"
+        }
+    }
+]

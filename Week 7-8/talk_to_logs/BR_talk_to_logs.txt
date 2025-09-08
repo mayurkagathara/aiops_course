@@ -1,0 +1,32 @@
+UI 
+	- inputs : Time range, dropdown, customer, environment, free text
+	- Raw results in table : Search
+
+features
+	- Search raw data
+	- Download the data
+	- Analysis : 
+		- Static analysis : no LLM, severity trends
+		- AI analysis : 
+			- analyze the raw results : first query and then analyze
+			- query the whole log database : 
+				- analyze the problem with service ABC in last 1 month
+					- query the logs
+					- parse the raw results
+					- analysis
+
+Raw_results -> check the size and only proceed if above certain thershold -> chunk, embedd -> store in vectoreDB
+Query	-> search the VectorDB -> Give relavent documents -> LLM
+		-> search the knowledge VectorDB -> get related documents -^
+
+------------------technical architechture--------------------------
+Data schema (all mandatory fields) : customer, customer name, environment name, applicaiton name (authentication service, network service, product name), log type (app, lb, tomcat), message (complete log entry)
+
+1. user's query -> Give user dropdown like kibana to select key fields, ask natural language prompt.
+2. free text search on kibana or API call with key fields
+
+ i.   API elastic to get key-value pairs > UI dropdown (user's input)
+ ii.  Calling elastic to get the log entries (raw_data)
+ iii. Based on size, either run LLM or store in vectorDB
+ iv.  Based on User's query get relavent documents from vector DB.
+ v.   Agentic AI - Single agent, Multiple agent, 

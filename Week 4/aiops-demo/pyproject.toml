@@ -1,0 +1,7 @@
+[project]
+name = "aiops-demo"
+version = "0.1.0"
+dependencies = [
+    "opentelemetry-exporter-otlp>=1.36.0",
+    "opentelemetry-sdk>=1.36.0",
+] # Add your dependencies here

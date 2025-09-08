@@ -1,0 +1,6 @@
+2025-07-04 13:20:01 INFO Attempting to connect to external analytics API.
+2025-07-04 13:20:05 WARN Network latency detected when connecting to 'analytics.example.com'.
+2025-07-04 13:20:10 ERROR Connection refused: Could not reach 'analytics.example.com' on port 443.
+2025-07-04 13:20:15 INFO Retrying connection to analytics API (attempt 1/3).
+2025-07-04 13:20:20 ERROR DNS resolution failed for 'analytics.example.com'. Check network configuration.
+2025-07-04 13:20:25 CRITICAL Failed to push analytics data after multiple retries.

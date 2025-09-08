@@ -1,6 +1,6 @@
-# 📘 Glossary of Terms (for all 3 problems)
+# 📘 Glossary and ML Workflow Cheatsheet
 
-This glossary explains **all jargon and technical terms** used in the code and README files.
+This file explains **all jargon and technical terms**, plus a **step-by-step ML workflow**, **common issues**, and **tips to solve them**.
 
 ---
 
@@ -165,3 +165,131 @@ Sum of squared distances of samples to their nearest cluster center. Used to fin
 ## 🎯 **How to Use This Glossary?**
 
 Use this file while running the scripts to **understand every method, metric, and ML concept** step by step.
+
+---
+
+## 🔄 **Overall Machine Learning Cycle**
+
+1️⃣ **Understand the Problem**  
+   – Is it **classification, regression, or clustering**?  
+   – Identify input (features) and output (target).
+
+2️⃣ **Data Collection / Loading**  
+   – Load built-in datasets (e.g., `load_breast_cancer()`, `load_diabetes()`).
+
+3️⃣ **Exploratory Data Analysis (EDA)**  
+   – Check shape, missing values, distributions, correlations.  
+   – Visualize data to spot patterns or class imbalance.
+
+4️⃣ **Data Preprocessing**  
+   – Handle missing values, scaling, encoding (if needed).  
+   – Feature selection/dimensionality reduction (PCA).
+
+5️⃣ **Split Data**  
+   – Use `train_test_split()` (Stratified for classification).
+
+6️⃣ **Model Selection**  
+   – Start with simple models (Logistic/Linear Regression).  
+   – Try advanced models (RandomForest, Ridge, etc.).
+
+7️⃣ **Validation**  
+   – Use `cross_val_score()` with **KFold/StratifiedKFold**.  
+   – Compare metrics (Accuracy, R², RMSE, etc.).
+
+8️⃣ **Prediction & Evaluation**  
+   – Check test performance.  
+   – Use confusion matrix, ROC-AUC (for classification).
+
+9️⃣ **Model Improvement**  
+   – Hyperparameter tuning.  
+   – Try different algorithms, more data, feature engineering.
+
+10️⃣ **Deployment or Reporting**  
+   – Save model, share predictions, or integrate into apps.
+
+---
+
+## ⚠️ **Common Problems and Solutions**
+
+### 📌 **1. Poor Validation Accuracy**
+
+✅ Causes:
+
+- Overfitting to training data.
+- Class imbalance.
+- Irrelevant or redundant features.
+
+✅ Solutions:
+
+- Use **cross-validation (KFold)** to get stable scores.
+- Perform **feature selection** (drop highly correlated features).
+- Collect more data or add regularization (e.g., Ridge, Lasso).
+
+---
+
+### 📌 **2. Class Imbalance in Classification**
+
+✅ Causes:
+
+- One class dominates dataset (e.g., 90% negative, 10% positive).
+
+✅ Solutions:
+
+- Use **Stratified Train-Test Split**.
+- Evaluate with **Precision, Recall, F1-score**, not just accuracy.
+- Use oversampling (SMOTE) or class weights in models.
+
+---
+
+### 📌 **3. Overfitting (High Train Accuracy, Low Test Accuracy)**
+
+✅ Causes:
+
+- Model too complex (e.g., deep tree).
+- Too many features vs. samples.
+
+✅ Solutions:
+
+- Use simpler models or regularization (Ridge/Lasso).
+- Try **cross-validation**.
+- Get more training data.
+
+---
+
+### 📌 **4. Underfitting (Low Accuracy in Both Train and Test)**
+
+✅ Causes:
+
+- Model too simple (e.g., Linear Regression for complex data).
+
+✅ Solutions:
+
+- Try more powerful models (RandomForest, Gradient Boosting).
+- Add interaction features or polynomial terms.
+
+---
+
+### 📌 **5. Clustering Issues (Wrong Number of Clusters)**
+
+✅ Causes:
+
+- Choosing wrong `k` in KMeans.
+
+✅ Solutions:
+
+- Use **Elbow Method (Inertia)** to find optimal k.
+- Check **Silhouette Score** for cluster quality.
+
+---
+
+## 🎯 **Key Tips for Beginners**
+
+🔹 Always **start with EDA** – understand your data before training.  
+🔹 **Use CV (KFold/StratifiedKFold)** to avoid misleading single-split results.  
+🔹 Compare **multiple metrics** (Accuracy, F1, ROC-AUC for classification; R², RMSE for regression).  
+🔹 For clustering, always **visualize clusters (PCA, scatter plots)**.  
+🔹 Don’t rely on just one model – **try different algorithms**.
+
+---
+
+The first part of this file still contains **Glossary definitions** for all terms used in code. The second part is this **ML Workflow Cheatsheet** to guide you step by step.

@@ -1,0 +1,6 @@
+2025-07-04 13:10:01 INFO Data caching service initialized.
+2025-07-04 13:10:15 WARN Memory consumption for 'cache_service' increasing: 60% used.
+2025-07-04 13:10:30 WARN Memory consumption for 'cache_service' increasing: 75% used.
+2025-07-04 13:10:45 ERROR OutOfMemoryError: Java heap space exhausted for 'cache_service'. Application unstable.
+2025-07-04 13:10:50 INFO Attempting to clear cache and restart 'cache_service'.
+2025-07-04 13:10:55 ERROR Service 'cache_service' failed to restart due to persistent memory pressure.
