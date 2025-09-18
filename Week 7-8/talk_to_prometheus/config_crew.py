@@ -12,6 +12,8 @@ from config_schema import *
 # --- 1. Configuration ---
 # PROMETHEUS_BASE_URL = os.environ.get("PROMETHEUS_URL", "http://localhost:9090")
 
+USE_LOCAL_LLM = False
+
 if USE_LOCAL_LLM:
     llm = LLM(
         model="ollama/qwen2.5:1.5b",
@@ -23,12 +25,6 @@ else:
         openai_api_key=OPENROUTER_API_KEY,
         openai_api_base="https://openrouter.ai/api/v1"
     )
-
-llm = ChatOpenAI(
-    model=OPENROUTER_MODEL,
-    openai_api_key=OPENROUTER_API_KEY,
-    openai_api_base="https://openrouter.ai/api/v1",
-)
 
 # --- 4. Agent Definitions ---
 # (Agent definitions are solid, no changes needed)
